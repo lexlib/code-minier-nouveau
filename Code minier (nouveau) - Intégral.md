@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-04-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -13762,24 +13762,30 @@ _Anciens textes_:
 
 ###### Article L622-1
 
-Pour l'application au département de Mayotte des dispositions du présent code : 
+Pour l'application au département de Mayotte des dispositions du présent code :
 
 1° Les références au département, à la région ou collectivités territoriales sont remplacées par la référence au département
-de Mayotte ; 
+de Mayotte ;
 
 2° Les mots : " administrateur des affaires maritimes " sont remplacés par les mots : " chef du service des affaires
-maritimes " ; 
+maritimes " ;
 
-3° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ; 
+3° Les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ;
 
 4° Les mots : " procureur de la République " sont remplacés par les mots : " procureur de la République près le tribunal de
 première instance ".
 
+**Nota:**
+
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
+instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
+compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2011-337 du 29 mars 2011- art. 12 (V)
 
 
 ###### Article L622-2
