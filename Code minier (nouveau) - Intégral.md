@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2014-01-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -34,7 +34,7 @@ Version Consolidée au 2013-05-30
           - [Section 1 : Octroi des concessions (art. L132-1 à L132-7)](#31)
           - [Section 2 : Effets des concessions (art. L132-8 à L132-13)](#32)
           - [Section 3 : Rejet des demandes de concession (art. L132-14)](#33)
-          - [Section 4 : Redevances (art. L132-15 à L132-16)](#34)
+          - [Section 4 : Redevances (art. L132-15 à L132-16-1)](#34)
           - [Section 5 : Dispositions diverses (art. L132-17 à L132-18)](#35)
         - [Chapitre III : L'exploitation en mer (art. L133-1 à L133-13)](#36)
           - [Section 1 : L'exploitation des substances minérales ou fossiles sur le plateau continental et dans la zone économique exclusive (art. L133-1 à L133-4)](#37)
@@ -2204,6 +2204,50 @@ _Anciens textes_:
 _Cité par_:
 
   - Code minier (nouveau) - art. L134-2 (VD)
+
+
+###### Article L132-16-1
+
+Pour les gisements en mer situés dans les limites du plateau continental, à l'exception des gisements en mer exploités à
+partir d'installations situées à terre, les titulaires de concessions de mines d'hydrocarbures liquides ou gazeux sont tenus
+de payer annuellement à l'Etat, au profit de ce dernier et des régions, une redevance à taux progressif et calculée sur la
+production. Cette redevance est due au jour de la première vente des hydrocarbures extraits à l'intérieur du périmètre qui
+délimite la concession.
+
+La redevance est calculée en appliquant un taux à la fraction de chaque tranche de production annuelle. Ce taux est
+progressif et fixé par décret en fonction de la nature des produits, du continent au large duquel est situé le gisement, de
+la profondeur d'eau, de la distance du gisement par rapport à la côte du territoire concerné et du montant des dépenses
+consenties pendant la période d'exploration et de développement, dans la limite de 12 %. Il s'applique à la valeur de la
+production au départ du champ.
+
+Le produit de la taxe est affecté à 50 % à l'Etat et à 50 % à la région dont le point du territoire est le plus proche du
+gisement.
+
+Le recouvrement de la redevance instituée au présent article, dont la perception incombe aux comptables publics chargés des
+recettes domaniales de l'Etat, s'opère dans les conditions prévues en matière domaniale à l'article L. 2321-1 du code général
+de la propriété des personnes publiques .
+
+Un décret précise les modalités d'application du présent article, notamment les garanties assurées au titulaire du titre
+d'exploitation en ce qui concerne la détermination de la base de calcul de la redevance.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011, art. 52-II : ces dispositions s'appliquent aux ventes d'hydrocarbures réalisées à
+compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 52 (V)
+
+_Abrogé par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 21 (V)
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2321-1
 
 
 ##### Section 5 : Dispositions diverses<a id=35></a>
