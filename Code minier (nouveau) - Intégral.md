@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-01-27
+Version Consolidée au 2014-02-15
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -11495,7 +11495,7 @@ _Cite_:
 
 ###### Article L512-1
 
-I. ― Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+I. – Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
 
 1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation
 tels qu'ils sont respectivement prévus aux articles L. 131-1 et L. 131-2 ;
@@ -11519,12 +11519,20 @@ de toutes les installations, dans les conditions prévues par les articles L. 16
 7° De s'opposer à la réalisation des mesures prescrites par le représentant de l'Etat dans le département par application de
 l'article L. 175-2 ;
 
-8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ;   
+8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ;
 
 9° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué
-au représentant de l'Etat dans le département les garanties financières requises.
+au représentant de l'Etat dans le département les garanties financières requises ;
 
-II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
+10° (Abrogé) ;
+
+11° De détenir du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe, depuis plus d'un mois, sans détenir le
+récépissé de déclaration prévu à l'article L. 621-13 ;
+
+12° De transporter du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe sans détenir la copie du récépissé de
+déclaration prévue à l'article L. 621-14.
+
+II. – Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
 
 **Liens relatifs à cet article**
 
@@ -11533,7 +11541,6 @@ _Cité par_:
   - Loi n°68-1181 du 30 décembre 1968 - art. 25 (Ab)
   - Code de la santé publique - art. L1337-1-1 (VD)
   - Code minier (nouveau) - art. L121-4 (V)
-  - Code minier (nouveau) - art. L131-5 (V)
   - Code minier (nouveau) - art. L322-2 (V)
   - Code minier (nouveau) - art. L512-10 (V)
   - Code minier (nouveau) - art. L512-2 (V)
@@ -11543,13 +11550,27 @@ _Cité par_:
   - Code minier (nouveau) - art. L621-8-1 (VD)
   - Code minier (nouveau) - art. L621-8-2 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
 _Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 20
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+_Cite_:
+
+  - Code minier (nouveau) - art. L131-1 (V)
+  - Code minier (nouveau) - art. L131-5 (V)
+  - Code minier (nouveau) - art. L152-1 (V)
+  - Code minier (nouveau) - art. L161-1 (V)
+  - Code minier (nouveau) - art. L161-2 (V)
+  - Code minier (nouveau) - art. L162-4 (V)
+  - Code minier (nouveau) - art. L163-1 (V)
+  - Code minier (nouveau) - art. L173-2 (V)
+  - Code minier (nouveau) - art. L173-3 (V)
+  - Code minier (nouveau) - art. L175-2 (V)
+  - Code minier (nouveau) - art. L175-3 (V)
+  - Code minier (nouveau) - art. L211-2 (V)
+  - Code minier (nouveau) - art. L311-3 (V)
+  - Code minier (nouveau) - art. L621-13 (V)
+  - Code minier (nouveau) - art. L621-14 (V)
 
 
 ###### Article L512-2
