@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2014-02-15
+Version Consolidée au 2014-02-17
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -217,31 +217,32 @@ Version Consolidée au 2014-02-15
           - [Section 3 : Compétence réglementaire du représentant de l'Etat (art. L611-35)](#214)
         - [Chapitre V : Dispositions d'adaptation du livre V (art. L615-1 à L615-3)](#215)
       - [TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE (art. L621-1 à L622-3)](#216)
-        - [Chapitre Ier : Dispositions particulières à la Guyane (art. L621-1 à L621-11)](#217)
+        - [Chapitre Ier : Dispositions particulières à la Guyane (art. L621-1 à L621-14)](#217)
           - [Section 1 : Le schéma départemental d'orientation minière (art. L621-1 à L621-7)](#218)
-          - [Section 2 : Dispositions pénales (art. L621-8)](#219)
+          - [Section 2 : Dispositions pénales (art. L621-8 à L621-8-1)](#219)
           - [Section 3 : Autres dispositions d'adaptation (art. L621-9 à L621-11)](#220)
             - [Sous-section 1 : Information du public (art. L621-9 à L621-10)](#221)
             - [Sous-section 2 : Mise en concurrence (art. L621-11)](#222)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L622-1 à L622-3)](#223)
-          - [Section 1 : Dispositions générales d'adaptation (art. L622-1 à L622-3)](#224)
-      - [TITRE III : SAINT BARTHELEMY (art. L631-1)](#225)
-        - [Chapitre Ier : Dispositions générales d'adaptation (art. L631-1)](#226)
-      - [TITRE IV : SAINT MARTIN (art. L641-1)](#227)
-        - [Chapitre Ier : Dispositions générales (art. L641-1)](#228)
-      - [TITRE V : SAINT PIERRE ET MIQUELON (art. L651-1 à L652-2)](#229)
-        - [Chapitre Ier : Dispositions générales (art. L651-1)](#230)
-        - [Chapitre II : Dispositions d'adaptation du livre Ier (art. L652-1 à L652-2)](#231)
-      - [TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L661-1 à L663-1)](#232)
-        - [Chapitre Ier : Dispositions générales (art. L661-1 à L661-3)](#233)
-        - [Chapitre II : Contrôle administratif et constatation des infractions (art. L662-1)](#234)
-        - [Chapitre III : Redevances (art. L663-1)](#235)
-      - [TITRE VII : POLYNESIE FRANCAISE (art. L671-1 à L671-5)](#236)
-        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques (art. L671-1 à L671-5)](#237)
-      - [TITRE VIII : NOUVELLE CALEDONIE (art. L681-1 à L681-5)](#238)
-        - [Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique (art. L681-1 à L681-5)](#239)
-      - [TITRE IX : ILES WALLIS ET FUTUNA (art. L691-1 à L691-6)](#240)
-        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales (art. L691-1 à L691-6)](#241)
+          - [Section 4 : Matériels soumis à un régime particulier (art. L621-12 à L621-14)](#223)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L622-1 à L622-3)](#224)
+          - [Section 1 : Dispositions générales d'adaptation (art. L622-1 à L622-3)](#225)
+      - [TITRE III : SAINT BARTHELEMY (art. L631-1)](#226)
+        - [Chapitre Ier : Dispositions générales d'adaptation (art. L631-1)](#227)
+      - [TITRE IV : SAINT MARTIN (art. L641-1)](#228)
+        - [Chapitre Ier : Dispositions générales (art. L641-1)](#229)
+      - [TITRE V : SAINT PIERRE ET MIQUELON (art. L651-1 à L652-2)](#230)
+        - [Chapitre Ier : Dispositions générales (art. L651-1)](#231)
+        - [Chapitre II : Dispositions d'adaptation du livre Ier (art. L652-1 à L652-2)](#232)
+      - [TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L661-1 à L663-1)](#233)
+        - [Chapitre Ier : Dispositions générales (art. L661-1 à L661-3)](#234)
+        - [Chapitre II : Contrôle administratif et constatation des infractions (art. L662-1)](#235)
+        - [Chapitre III : Redevances (art. L663-1)](#236)
+      - [TITRE VII : POLYNESIE FRANCAISE (art. L671-1 à L671-5)](#237)
+        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques (art. L671-1 à L671-5)](#238)
+      - [TITRE VIII : NOUVELLE CALEDONIE (art. L681-1 à L681-5)](#239)
+        - [Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique (art. L681-1 à L681-5)](#240)
+      - [TITRE IX : ILES WALLIS ET FUTUNA (art. L691-1 à L691-6)](#241)
+        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales (art. L691-1 à L691-6)](#242)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ###### Article L100-1
@@ -13239,33 +13240,29 @@ _Cite_:
 
 ###### Article L615-2
 
-Le I de l'article L. 512-1 est complété par les deux alinéas suivants : 
+Le I de l'article L. 512-1 est complété par les deux alinéas suivants :
 
-" 11° De ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par l'autorisation d'exploitation ; 
+" 13° De ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par l'autorisation d'exploitation ;
 
-12° De céder, d'amodier ou de louer une autorisation d'exploitation. "
+14° De céder, d'amodier ou de louer une autorisation d'exploitation. "
 
 **Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 25 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cité par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°68-1181 du 30 décembre 1968 - art. 25 (Ab)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code minier - art. 141 (M), alinéas 12 et 13
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
 
 _Cite_:
 
-  - Code minier (nouveau) - art. L512-1 (VT)
+  - Code minier (nouveau) - art. L512-1
 
 
 ###### Article L615-3
@@ -13536,6 +13533,22 @@ _Cite_:
   - Code minier (nouveau) - art. L615-1 (V)
 
 
+###### Article L621-8-1
+
+Dans les cas prévus aux 11° et 12° de l'article L. 512-1, le tribunal peut prononcer la confiscation du mercure, des
+concasseurs et des corps de pompes ayant servi à la commission de l'infraction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+_Cite_:
+
+  - Code minier (nouveau) - art. L512-1
+
+
 ##### Section 3 : Autres dispositions d'adaptation<a id=220></a>
 
 ##### Sous-section 1 : Information du public<a id=221></a>
@@ -13617,9 +13630,77 @@ _Anciens textes_:
   - Code minier - art. 9 (Ab)
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=223></a>
+##### Section 4 : Matériels soumis à un régime particulier<a id=223></a>
 
-##### Section 1 : Dispositions générales d'adaptation<a id=224></a>
+###### Article L621-12
+
+La présente section est applicable à partir de vingt kilomètres au sud des routes nationales 1 et 2 et, entre Saint-Laurent-
+du-Maroni et Apatou, à partir de vingt kilomètres mesurés à partir du lit mineur du fleuve Maroni.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+_Cité par_:
+
+  - Code minier (nouveau) - art. L621-13 (VD)
+
+
+###### Article L621-13
+
+Dans le périmètre défini à l'article L. 621-12, la détention de mercure ou de tout ou partie d'un concasseur ou d'un corps de
+pompe est soumise à déclaration.
+
+Dans les quinze jours suivant le début de la détention, la déclaration est faite par le détenteur du matériel auprès du
+préfet de Guyane ou par lettre recommandée avec demande d'avis de réception, dans les conditions et selon les modalités
+fixées par décret. Il en est délivré immédiatement récépissé.
+
+Le récépissé ou sa copie doit pouvoir être présenté aux agents habilités qui contrôlent ces matériels. En l'absence de
+récépissé, le détenteur doit prouver par tous moyens qu'il ne détient pas le mercure, le concasseur ou le corps de pompe
+depuis plus d'un mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+_Cité par_:
+
+  - Décret n°2014-850 du 28 juillet 2014 - art. 1 (V)
+  - Code minier (nouveau) - art. L512-1 (V)
+  - Code minier (nouveau) - art. L621-14 (VD)
+
+_Cite_:
+
+  - Code minier (nouveau) - art. L621-12
+
+
+###### Article L621-14
+
+Le transporteur de mercure ou de tout ou partie d'un concasseur ou d'un corps de pompe doit être en possession d'une copie du
+récépissé de la déclaration prévue à l'article L. 621-13.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+
+_Cité par_:
+
+  - Code minier (nouveau) - art. L512-1 (V)
+
+_Cite_:
+
+  - Code minier (nouveau) - art. L621-13
+
+
+#### Chapitre II : Dispositions particulières à Mayotte<a id=224></a>
+
+##### Section 1 : Dispositions générales d'adaptation<a id=225></a>
 
 ###### Article L622-1
 
@@ -13681,9 +13762,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE III : SAINT BARTHELEMY<a id=225></a>
+### TITRE III : SAINT BARTHELEMY<a id=226></a>
 
-#### Chapitre Ier : Dispositions générales d'adaptation<a id=226></a>
+#### Chapitre Ier : Dispositions générales d'adaptation<a id=227></a>
 
 ###### Article L631-1
 
@@ -13709,9 +13790,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6214-6 (V)
 
 
-### TITRE IV : SAINT MARTIN<a id=227></a>
+### TITRE IV : SAINT MARTIN<a id=228></a>
 
-#### Chapitre Ier : Dispositions générales<a id=228></a>
+#### Chapitre Ier : Dispositions générales<a id=229></a>
 
 ###### Article L641-1
 
@@ -13737,9 +13818,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6214-6 (V)
 
 
-### TITRE V : SAINT PIERRE ET MIQUELON<a id=229></a>
+### TITRE V : SAINT PIERRE ET MIQUELON<a id=230></a>
 
-#### Chapitre Ier : Dispositions générales<a id=230></a>
+#### Chapitre Ier : Dispositions générales<a id=231></a>
 
 ###### Article L651-1
 
@@ -13767,7 +13848,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre II : Dispositions d'adaptation du livre Ier<a id=231></a>
+#### Chapitre II : Dispositions d'adaptation du livre Ier<a id=232></a>
 
 ###### Article L652-1
 
@@ -13810,9 +13891,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=232></a>
+### TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=233></a>
 
-#### Chapitre Ier : Dispositions générales<a id=233></a>
+#### Chapitre Ier : Dispositions générales<a id=234></a>
 
 ###### Article L661-1
 
@@ -13915,7 +13996,7 @@ _Cite_:
   - Code minier (nouveau) - art. L412-1 (V)
 
 
-#### Chapitre II : Contrôle administratif et constatation des infractions<a id=234></a>
+#### Chapitre II : Contrôle administratif et constatation des infractions<a id=235></a>
 
 ###### Article L662-1
 
@@ -13945,7 +14026,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre III : Redevances<a id=235></a>
+#### Chapitre III : Redevances<a id=236></a>
 
 ###### Article L663-1
 
@@ -13978,9 +14059,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2321-1 (V)
 
 
-### TITRE VII : POLYNESIE FRANCAISE<a id=236></a>
+### TITRE VII : POLYNESIE FRANCAISE<a id=237></a>
 
-#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques<a id=237></a>
+#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques<a id=238></a>
 
 ###### Article L671-1
 
@@ -14082,9 +14163,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VIII : NOUVELLE CALEDONIE<a id=238></a>
+### TITRE VIII : NOUVELLE CALEDONIE<a id=239></a>
 
-#### Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique<a id=239></a>
+#### Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique<a id=240></a>
 
 ###### Article L681-1
 
@@ -14179,9 +14260,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE IX : ILES WALLIS ET FUTUNA<a id=240></a>
+### TITRE IX : ILES WALLIS ET FUTUNA<a id=241></a>
 
-#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales<a id=241></a>
+#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales<a id=242></a>
 
 ###### Article L691-1
 
