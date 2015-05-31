@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-06-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -9019,8 +9019,8 @@ l'autorité administrative.
 
 Des servitudes d'utilité publique sont instituées autour des ouvrages nécessaires à l'exploitation d'un stockage souterrain
 dans les conditions prévues aux I, II et III de l'article L. 515-8, aux premier, deuxième et troisième alinéas de l'article
-L. 515-9 et aux articles L. 515-10 et L. 515-11 du code de l'environnement. Ces servitudes et leurs périmètres sont arrêtés
-par l'autorité administrative. 
+L. 515-9, aux articles L. 515-10 et L. 515-11 et au III de l'article L. 515-37 du code de l'environnement. Ces servitudes et
+leurs périmètres sont arrêtés par l'autorité administrative. 
 
 Les actes de mutation de propriété des biens fonciers et immobiliers mentionnent explicitement, le cas échéant, les
 servitudes instituées en application de l'article L. 111-1-5 du code de l'urbanisme et de la présente section.
@@ -9031,19 +9031,16 @@ _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Anciens textes_:
-
-  - Code minier - art. 104-3 (VT)
+  - Loi n°2013-619 du 16 juillet 2013 - art. 11
 
 _Cite_:
 
-  - Code de l'environnement - art. L515-10 (V)
-  - Code de l'environnement - art. L515-8 (V)
-  - Code de l'environnement - art. L515-9 (V)
+  - Code de l'environnement - art. L515-10 (VD)
+  - Code de l'environnement - art. L515-37 (VD)
+  - Code de l'environnement - art. L515-8
+  - Code de l'environnement - art. L515-9 (VD)
 
 _Cité par_:
 
