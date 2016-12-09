@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-12-10
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -764,32 +764,28 @@ _Cité par_:
 
 ###### Article L123-1
 
-Sous réserve des dispositions applicables de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau
-continental et à l'exploitation de ses ressources naturelles et des textes pris pour son application, la recherche et le
-transport par canalisations de l'ensemble des substances minérales ou fossiles contenues dans le sous-sol du plateau
-continental défini à l'article 1er de cette loi ou dans le fond de la mer et le sous-sol de la zone économique dite "
-exclusive " définie à l'article 1er de loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
-protection écologique au large des côtes du territoire de la République, ou existant à leur surface, sont soumis au régime
-applicable en vertu du présent livre aux substances de mine.
+Sous réserve des dispositions applicables de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes
+relevant de la souveraineté ou de la juridiction de la République française et des textes pris pour son application, la
+recherche et le transport par canalisations de l'ensemble des substances minérales ou fossiles contenues dans le sous-sol du
+plateau continental défini à l'article 14 de ladite ordonnance dans le fond de la mer et le sous-sol de la zone économique
+exclusive définie à l'article 11 de ladite ordonnance, ou existant à leur surface, sont soumis au régime applicable en vertu
+du présent livre aux substances de mine.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
-
-_Anciens textes_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 6 (Ab), ecqc l'exploration
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 11 (V)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L123-2
@@ -894,22 +890,22 @@ _Cite_:
 ###### Article L123-4
 
 Les dispositions de la présente section ne s'appliquent pas dans les zones de protection écologique créées par les autorités
-françaises en application des pouvoirs qui leur sont reconnus par l'article 4 de la loi n° 76-655 du 16 juillet 1976 relative
-à la zone économique et à la zone de protection écologique au large des côtes du territoire de la République.
+françaises en application des pouvoirs qui leur sont reconnus par l'article 13 de l'ordonnance n° 2016-1687 du 8 décembre
+2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-655 du 16 juillet 1976 - art. 4
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 13
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ##### Section 2 : La recherche des substances de carrière dans les fonds marins du domaine public<a id=14></a>
@@ -1445,32 +1441,28 @@ _Anciens textes_:
 
 ###### Article L125-1
 
-Le régime auquel est soumise la recherche ou l'exploration de toute ressource naturelle non biologique autre qu'une substance
-minérale ou fossile contenue dans le sous-sol du plateau continental défini à l'article 1er de la loi n° 68-1181 du 30
-décembre 1968 relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles ou dans le
-fond de la mer et le sous-sol de la zone économique dite " exclusive " définie à l'article 1er de loi n° 76-655 du 16 juillet
-1976 relative à la zone économique et à la zone de protection écologique au large des côtes du territoire de la République
-figure à l'article 2 de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau continental et à
-l'exploitation de ses ressources naturelles. 
+La recherche ou l'exploration de toute ressource naturelle non biologique autre qu'une substance minérale ou fossile contenue
+dans le sous-sol du plateau continental, défini à l'article 14 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux
+espaces maritimes relevant de la souveraineté ou de la juridiction de la République française, ou dans le fond de la mer et
+le sous-sol de la zone économique exclusive, définie à l'article 11 de ladite ordonnance, est soumise à autorisation
+préalable.
 
 Un décret en Conseil d'Etat fixe les conditions d'application de la présente section, notamment les modalités de délivrance
 par l'autorité administrative compétente de l'autorisation nécessaire pour entreprendre l'exploration de ces ressources.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 1
-  - Loi n°68-1181 du 30 décembre 1968 - art. 2
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
-
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 #### Chapitre VI : La recherche de stockages d'énergie calorifique<a id=27></a>
@@ -2346,32 +2338,28 @@ _Créé par_:
 
 ###### Article L133-1
 
-Sous réserve des dispositions applicables de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau
-continental et à l'exploitation de ses ressources naturelles et des textes pris pour son application, l'exploitation et le
-transport par canalisations de l'ensemble des substances minérales ou fossiles contenues dans le sous-sol du plateau
-continental défini à l'article 1er de cette loi ou dans le fond de la mer et le sous-sol de la zone économique dite "
-exclusive " définie à l'article 1er de loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
-protection écologique au large des côtes du territoire de la République, ou existant à leur surface, sont soumis au régime
+Sous réserve des dispositions applicables de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes
+relevant de la souveraineté ou de la juridiction de la République française et des textes pris pour son application,
+l'exploitation et le transport par canalisations de l'ensemble des substances minérales ou fossiles contenues dans le sous-
+sol du plateau continental défini à l'article 14 de ladite ordonnance dans le fond de la mer et le sous-sol de la zone
+économique exclusive définie à l'article 11 de ladite ordonnance, ou existant à leur surface, sont soumis au régime
 applicable en vertu du présent livre aux substances de mine.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
-
-_Anciens textes_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 6 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 11 (V)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L133-2
@@ -2437,45 +2425,44 @@ _Cite_:
 
 ###### Article L133-3
 
-Les dispositions douanières et fiscales énoncées aux articles 15 à 17 et 19 de la loi n° 68-1181 du 30 décembre 1968 relative
-à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles sont applicables aux activités
-d'exploitation des ressources du plateau du plateau continental et de la zone économique exclusive.
+Les dispositions douanières et fiscales énoncées au chapitre V du titre II de l'ordonnance n° 2016-1687 du 8 décembre 2016
+relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française sont applicables
+aux activités d'exploitation des ressources du plateau du plateau continental et de la zone économique exclusive.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 15 (V)
-  - Loi n°68-1181 du 30 décembre 1968 - art. 19 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 -  Chapitre V : Dispositions douanières et fiscales (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L133-4
 
 Les dispositions de la présente section ne s'appliquent pas dans les zones de protection écologique créées par les autorités
-françaises en application des pouvoirs qui leur sont reconnus par l'article 4 de la loi n° 76-655 du 16 juillet 1976 relative
-à la zone économique et à la zone de protection écologique au large des côtes du territoire de la République.
+françaises en application des pouvoirs qui leur sont reconnus par l'article 13 de l'ordonnance n° 2016-1687 du 8 décembre
+2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-655 du 16 juillet 1976 - art. 4
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 13
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ##### Section 2 : L'exploitation des gîtes contenant des substances de carrière dans les fonds marins du domaine public<a id=38></a>
@@ -3036,41 +3023,37 @@ _Anciens textes_:
 
 ###### Article L134-13
 
-Le régime auquel est soumise l'exploitation de toute ressource naturelle non biologique autre qu'une substance minérale ou
-fossile contenue dans le sous-sol du plateau continental défini à l'article 1er de la loi n° 68-1181 du 30 décembre 1968
-relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles ou dans le fond de la mer et
-le sous-sol de la zone économique dite " exclusive " définie à l'article 1er de loi n° 76-655 du 16 juillet 1976 relative à
-la zone économique et à la zone de protection écologique au large des côtes du territoire de la République, figure à
-l'article 2 de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau continental et à l'exploitation de
-ses ressources naturelles. 
+L'exploitation de toute ressource naturelle non biologique autre qu'une substance minérale ou fossile contenue dans le sous-
+sol du plateau continental, défini à l'article 14 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces
+maritimes relevant de la souveraineté ou de la juridiction de la République française, ou dans le fond de la mer et le sous-
+sol de la zone économique exclusive, définie à l'article 11 de ladite ordonnance, est soumise à autorisation préalable. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application de la présente section, notamment les modalités de délivrance
 par l'autorité administrative de l'autorisation nécessaire pour exploiter ces ressources.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 1
-  - Loi n°68-1181 du 30 décembre 1968 - art. 2
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
-
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 11 (V)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ##### Sous-section 2 : Dispositions douanières et fiscales<a id=52></a>
 
 ###### Article L134-14
 
-Les dispositions douanières et fiscales énoncées aux articles 15 à 17 et 19 de la loi n° 68-1181 du 30 décembre 1968 relative
-à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles sont applicables aux activités
-d'exploitation des ressources du plateau du plateau continental et de la zone économique exclusive.
+Les dispositions douanières et fiscales énoncées au chapitre V du titre II de l'ordonnance n° 2016-1687 du 8 décembre 2016
+relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française sont applicables
+aux activités d'exploitation des ressources du plateau du plateau continental et de la zone économique exclusive.
 
 **Liens relatifs à cet article**
 
@@ -3078,9 +3061,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 #### Chapitre V : L'exploitation des stockages d'énergie calorifique<a id=53></a>
@@ -7231,23 +7218,26 @@ _Cite_:
 
 ###### Article L176-3
 
-Les dispositions des articles 4 à 8 et des articles 10 à 14 de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration
-du plateau continental et à l'exploitation de ses ressources naturelles sont applicables aux installations et aux dispositifs
-mis en place sur le plateau continental et dans la zone économique exclusive tels que définis à l'article 3 de cette loi.
+Les dispositions des articles 19, 29 à 32, 37, 39 et 52 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces
+maritimes relevant de la souveraineté ou de la juridiction de la République française sont applicables aux îles
+artificielles, installations et ouvrages, et leurs installations connexes, définis au III de l'article 19 de l'ordonnance n°
+2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République
+française, mis en place sur le plateau continental et dans la zone économique exclusive, définis respectivement aux articles
+15 et 11 de la même ordonnance.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 #### Chapitre VII : Dispositions applicables aux gîtes géothermiques<a id=112></a>
@@ -9564,30 +9554,25 @@ _Anciens textes_:
 
 Sont soumis au régime légal des carrières défini par le présent livre et par la section 1 du chapitre V du titre Ier du livre
 V du code de l'environnement les gîtes contenant des substances minérales ou fossiles autres que celles mentionnées à
-l'article L. 111-1, sauf s'ils sont situés dans les fonds marins appartenant au domaine public ou sur le plateau continental
-défini à l'article 1er de la loi n° 68-1181 du 30 décembre 1968 relative à l'exploration du plateau continental et à
-l'exploitation de ses ressources naturelles et dans la zone économique exclusive définie à l'article 1er de la loi n° 76-655
-du 16 juillet 1976 relative à la zone économique et à la zone de protection écologique au large des côtes du territoire de la
-République.
+l'article L. 111-1, sauf s'ils sont situés dans les fonds marins appartenant au domaine public, ou sur le plateau continental
+ou dans la zone économique exclusive définis aux articles 11 et 14 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative
+aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 1
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 11 (V)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14 (V)
+  - Code minier (nouveau) - art. L111-1
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code minier - art. 4 (Ab)
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 _Cité par_:
 
@@ -11424,22 +11409,23 @@ _Cité par_:
 
 Les dispositions relatives au droit d'accès de l'Institut français de recherche pour l'exploitation de la mer (Ifremer) aux
 documents ou renseignements d'ordre géologique, hydrologique ou minier mentionnés à l'article L. 412-1 et relatifs au sol et
-au sous-sol du plateau continental et de la zone économique exclusive sont énoncées à l'article 34 de la loi n° 68-1181 du 30
-décembre 1968 relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles.
+au sous-sol du plateau continental et de la zone économique exclusive sont énoncées à l'article L. 251-3 du code de la
+recherche.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 34
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
+
+_Cite_:
+
+  - Code de la recherche - art. L251-3 (V)
+  - Code minier (nouveau) - art. L412-1
 
 
 #### Chapitre III : Publicité et cession des renseignements recueillis<a id=193></a>
@@ -12281,22 +12267,22 @@ _Cite_:
 ###### Article L513-4
 
 Les dispositions relatives à la constatation des infractions commises sur le plateau continental et la zone économique
-exclusive figurent aux articles 33 à 33-2 et au second alinéa de l'article 36 de la loi n° 68-1181 du 30 décembre 1968
-relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles.
+exclusive figurent aux I et III de l'article 53 et au III de l'article 54 de l'ordonnance n° 2016-1687 du 8 décembre 2016
+relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 53
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L513-5
@@ -12304,43 +12290,42 @@ _Créé par_:
 Sans préjudice des articles L. 513-5-1 et L. 513-5-2, les peines dont sont punies les activités de recherche ou
 d'exploitation effectuées sur le plateau continental et dans la zone économique exclusive en infraction aux dispositions qui
 leur sont applicables, la procédure de constatation des infractions et les agents qui sont habilités à y procéder figurent
-aux articles 24 à 27,29 à 32 et au second alinéa de l'article 36 de la loi n° 68-1181 du 30 décembre 1968 relative à
-l'exploration du plateau continental et à l'exploitation de ses ressources naturelles.
+aux articles 48 à 52 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la
+souveraineté ou de la juridiction de la République française.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-1181 du 30 décembre 1968
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
+_Cite_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 48
+  - Code minier (nouveau) - art. L513-5-1
+
 _Modifié par_:
 
-  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L513-5-1
 
-Par dérogation à l'
-article 24 de la loi n° 68-1181 du 30 décembre 1968
-relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles, est puni d'une peine
-d'emprisonnement d'un an et d'une amende de 15 000 € le fait de procéder, sur le plateau continental ou dans la zone
-économique exclusive, à des travaux de recherches d'hydrocarbures liquides ou gazeux sans détenir, d'une part, un permis
-exclusif de recherches ou une autorisation de prospection préalable et, d'autre part, une autorisation d'ouverture des
-travaux.
+Par dérogation à l'article 48 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la
+souveraineté ou de la juridiction de la République française, est puni d'une peine d'emprisonnement d'un an et d'une amende
+de 15 000 € le fait de procéder, sur le plateau continental ou dans la zone économique exclusive, à des travaux de recherches
+d'hydrocarbures liquides ou gazeux sans détenir, d'une part, un permis exclusif de recherches ou une autorisation de
+prospection préalable et, d'autre part, une autorisation d'ouverture des travaux.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°68-1181 du 30 décembre 1968 - art. 24
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 48
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 _Cité par_:
 
@@ -12349,22 +12334,21 @@ _Cité par_:
 
 ###### Article L513-5-2
 
-Par dérogation à l'
-article 24 de la loi n° 68-1181 du 30 décembre 1968
-relative à l'exploration du plateau continental et à l'exploitation de ses ressources naturelles, est puni d'une peine
-d'emprisonnement de deux ans et d'une amende de 30 000 € le fait de procéder, sur le plateau continental ou dans la zone
-économique exclusive, à des travaux d'exploitation d'hydrocarbures liquides ou gazeux sans détenir, d'une part, une
-concession et, d'autre part, une autorisation d'ouverture des travaux.
+Par dérogation à l'article 48 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la
+souveraineté ou de la juridiction de la République française, est puni d'une peine d'emprisonnement de deux ans et d'une
+amende de 30 000 € le fait de procéder, sur le plateau continental ou dans la zone économique exclusive, à des travaux
+d'exploitation d'hydrocarbures liquides ou gazeux sans détenir, d'une part, une concession et, d'autre part, une autorisation
+d'ouverture des travaux.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°68-1181 du 30 décembre 1968 - art. 24
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 48
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1567 du 2 décembre 2015 - art. 7
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ##### Section 4 : Dispositions applicables aux gîtes géothermiques<a id=204></a>
@@ -13135,29 +13119,25 @@ _Cite_:
 ###### Article L611-30
 
 Les dispositions du présent code relatives à la recherche et à l'exploitation de l'ensemble des substances minérales ou
-fossiles contenues dans le sous-sol du plateau continental défini à l'article 1er de cette loi ou dans le fond de la mer et
-dans celui de la zone économique dite " exclusive " définie à l'article 1er de la loi n° 76-655 du 16 juillet 1976 relative à
-la zone économique et à la zone de protection écologique au large des côtes du territoire de la République, ou existant à
-leur surface, sont applicables au plateau continental et à la zone économique exclusive adjacents au territoire des
-départements d'outre-mer, sous réserve des compétences dévolues à la région par la présente section.
+fossiles contenues dans le sous-sol du plateau continental défini à l'article 14 de l'ordonnance n° 2016-1687 du 8 décembre
+2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française ou dans le
+fond de la mer et dans celui de la zone économique exclusive définie à l'article 11 de ladite ordonnance, ou existant à leur
+surface, sont applicables au plateau continental et à la zone économique exclusive adjacents au territoire des départements
+d'outre-mer, sous réserve des compétences dévolues à la région par la présente section.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 6 (Ab)
-
-_Cite_:
-
-  - Loi n°76-655 du 16 juillet 1976 - art. 1
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 14
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
 ###### Article L611-31
