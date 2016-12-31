@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2016-12-10
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -13438,19 +13438,19 @@ _Cité par_:
 
 ###### Article L621-2
 
-Le projet de schéma départemental d'orientation minière est élaboré par le représentant de l'Etat dans le département. 
+Le projet de schéma départemental d'orientation minière est élaboré par le représentant de l'Etat dans le département.
 
-Le projet de schéma est soumis à une évaluation environnementale conformément à l'article L. 122-6 du code de
+Le projet de schéma est soumis à une évaluation environnementale conformément à l'article L. 122-4 du code de
 l'environnement. Il est mis à la disposition du public pendant une durée de deux mois. Le public est avisé des modalités de
-consultation au moins quinze jours avant le début de la mise à disposition. 
+consultation au moins quinze jours avant le début de la mise à disposition.
 
 Le projet, éventuellement modifié pour tenir compte des observations et des propositions recueillies, est ensuite transmis
 pour avis au conseil régional et au conseil général de la Guyane, aux communes concernées, à la commission départementale des
 mines ainsi qu'aux chambres consulaires. Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de trois
-mois suivant la transmission. 
+mois suivant la transmission.
 
 Le schéma, éventuellement modifié pour tenir compte de ces avis, est arrêté par le représentant de l'Etat dans le département
-et approuvé par décret en Conseil d'Etat. 
+et approuvé par décret en Conseil d'Etat.
 
 Le représentant de l'Etat dans le département met le schéma approuvé ainsi que les informations mentionnées au 2° du I de
 l'article L. 122-10 du code de l'environnement à la disposition du public après l'en avoir informé.
@@ -13461,18 +13461,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Anciens textes_:
-
-  - Code minier - art. 68-20-1 (VT), alinéas 2, 3, 4, 5 ecqc l'approbation du SDOM et 7
+  - Ordonnance n°2016-1058 du 3 août 2016 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-10 (V)
-  - Code de l'environnement - art. L122-6 (V)
+  - Code de l'environnement - art. L122-10
+  - Code de l'environnement - art. L122-4
 
 _Cité par_:
 
