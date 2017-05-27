@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-05-28
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -13773,14 +13773,13 @@ _Anciens textes_:
 
 ###### Article L621-12
 
-La présente section est applicable à partir de vingt kilomètres au sud des routes nationales 1 et 2 et, entre Saint-Laurent-
-du-Maroni et Apatou, à partir de vingt kilomètres mesurés à partir du lit mineur du fleuve Maroni.
+La présente section est applicable à l'ensemble du territoire guyanais.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+  - Loi n°2017-256 du 28 février 2017 - art. 92
 
 _Cité par_:
 
