@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2017-05-28
+Version Consolidée au 2017-12-30
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -2156,7 +2156,7 @@ concession. 28,5 % du produit de cette redevance est versé à la caisse autonom
 
 Le barème de la redevance est fixé comme suit :
 
-Nature des produits, productions anciennes et nouvelles en pourcentage de la valeur de la production au départ du champ.
+Nature des produits, en pourcentage de la valeur de la production au départ du champ.
 
 Huile brute :
 
@@ -2165,29 +2165,28 @@ Par tranche de production annuelle (en tonnes) :
 <table border="1">
   <tbody>
     <tr>
-      <th>PRODUCTIONS</th>
-      <th>ANCIENNES</th>
-      <th>NOUVELLES</th>
+      <th>
+
+Production</th>
+      <th>
+
+Taux</th>
     </tr>
     <tr>
-      <td align="center">Inférieure à 50 000</td>
-      <td align="center">8 %</td>
-      <td align="center">0 %</td>
+      <td align="center">
+
+Inférieure à 1 500</td>
+      <td align="center">
+
+0 %</td>
     </tr>
     <tr>
-      <td align="center">De 50 000 à 100 000</td>
-      <td align="center">20 %</td>
-      <td align="center">6 %</td>
-    </tr>
-    <tr>
-      <td align="center">De 100 000 à 300 000</td>
-      <td align="center">30 %</td>
-      <td align="center">9 %</td>
-    </tr>
-    <tr>
-      <td align="center">Supérieure à 300 000</td>
-      <td align="center">30 %</td>
-      <td align="center">12 %</td>
+      <td align="center">
+
+Egale ou supérieure à 1 500</td>
+      <td align="center">
+
+8 %</td>
     </tr>
   </tbody>
 </table>
@@ -2199,19 +2198,28 @@ Par tranche de production annuelle (en millions de mètres cubes) :
 <table border="1">
   <tbody>
     <tr>
-      <th>PRODUCTIONS</th>
-      <th>ANCIENNES</th>
-      <th>NOUVELLES</th>
+      <th>
+
+Production</th>
+      <th>
+
+Taux</th>
     </tr>
     <tr>
-      <td align="center">Inférieure à 300</td>
-      <td align="center">0 %</td>
-      <td align="center">0 %</td>
+      <td align="center">
+
+Inférieure à 150</td>
+      <td align="center">
+
+0 %</td>
     </tr>
     <tr>
-      <td align="center">Supérieure à 300</td>
-      <td align="center">30 %</td>
-      <td align="center">5 %</td>
+      <td align="center">
+
+Egale ou supérieure à 150</td>
+      <td align="center">
+
+30 %</td>
     </tr>
   </tbody>
 </table>
@@ -2230,17 +2238,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 41
 
 _Cite_:
 
-  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
-
-_Anciens textes_:
-
-  - Code minier - art. 31 (Ab)
+  - Code général de la propriété des personnes publiques. - art. L2321-1
 
 _Cité par_:
 
