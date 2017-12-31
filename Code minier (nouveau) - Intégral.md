@@ -1,247 +1,249 @@
 # Code minier (nouveau)  
-Version Consolidée au 2017-12-30
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
       - [TITRE IER : CHAMP D'APPLICATION (art. L111-1 à L112-3)](#3)
-        - [Chapitre Ier : Les gîtes contenant des substances de mine (art. L111-1 à L111-3)](#4)
+        - [Chapitre Ier : Les gîtes contenant des substances de mine (art. L111-1 à L111-14)](#4)
           - [Section 1 : Dispositions générales (art. L111-1 à L111-2)](#5)
           - [Section 2 : Dispositions propres aux gîtes contenant des substances utiles à l'énergie atomique (art. L111-3)](#6)
-        - [Chapitre II : Les gîtes géothermiques (art. L112-1 à L112-3)](#7)
-      - [TITRE II : LA RECHERCHE (art. L121-1 à L126-2)](#8)
-        - [Chapitre Ier : Dispositions générales (art. L121-1 à L121-5)](#9)
-        - [Chapitre II : Le permis exclusif de recherches (art. L122-1 à L122-3)](#10)
-          - [Section 1 : Dispositions générales (art. L122-1 à L122-3)](#11)
-        - [Chapitre III : La recherche en mer (art. L123-1 à L123-15)](#12)
-          - [Section 1 : La recherche de toute substance minérale ou fossile sur le plateau continental et dans la zone économique exclusive (art. L123-1 à L123-4)](#13)
-          - [Section 2 : La recherche des substances de carrière dans les fonds marins du domaine public (art. L123-5 à L123-15)](#14)
-            - [Sous-section 1 : Dispositions générales (art. L123-5 à L123-7)](#15)
-            - [Sous-section 2 : Information et participation du public (art. L123-8 à L123-12)](#16)
-            - [Sous-section 3 : Dispositions propres aux autorisations de prospections préalables (art. L123-13 à L123-15)](#17)
-        - [Chapitre IV : La recherche de gîtes géothermiques (art. L124-1 à L124-9)](#18)
-          - [Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température (art. L124-1)](#19)
-          - [Section 2 : La recherche de gîtes géothermiques à haute température (art. L124-2)](#20)
-          - [Section 3 : La recherche de gîtes géothermiques à basse température (art. L124-3 à L124-9)](#21)
-            - [Sous-section 1 : Champ d'application (art. L124-3)](#22)
-            - [Sous-section 2 : Dispositions générales (art. L124-4 à L124-5)](#23)
-            - [Sous-section 3 : Information et participation du public (art. L124-6 à L124-8)](#24)
-            - [Sous-section 4 : Dispositions diverses (art. L124-9)](#25)
-        - [Chapitre V : La recherche de gîtes géothermiques sur le plateau continental et dans la zone économique exclusive (art. L125-1)](#26)
-        - [Chapitre VI : La recherche de stockages d'énergie calorifique (art. L126-1 à L126-2)](#27)
-      - [TITRE III : L'EXPLOITATION (art. L131-1 à L137-1)](#28)
-        - [Chapitre Ier : Le droit d'exploiter (art. L131-1 à L131-5)](#29)
-        - [Chapitre II : Les concessions (art. L132-1 à L132-18)](#30)
-          - [Section 1 : Octroi des concessions (art. L132-1 à L132-7)](#31)
-          - [Section 2 : Effets des concessions (art. L132-8 à L132-13)](#32)
-          - [Section 3 : Rejet des demandes de concession (art. L132-14)](#33)
-          - [Section 4 : Redevances (art. L132-15 à L132-16-1)](#34)
-          - [Section 5 : Dispositions diverses (art. L132-17 à L132-18)](#35)
-        - [Chapitre III : L'exploitation en mer (art. L133-1 à L133-13)](#36)
-          - [Section 1 : L'exploitation des substances minérales ou fossiles sur le plateau continental et dans la zone économique exclusive (art. L133-1 à L133-4)](#37)
-          - [Section 2 : L'exploitation des gîtes contenant des substances de carrière dans les fonds marins du domaine public (art. L133-5 à L133-13)](#38)
-            - [Sous-section 1 : Champ d'application (art. L133-5)](#39)
-            - [Sous-section 2 : Dispositions générales (art. L133-6 à L133-10)](#40)
-            - [Sous-section 3 : Information et participation du public (art. L133-11 à L133-13)](#41)
-        - [Chapitre IV : L'exploitation des gîtes géothermiques (art. L134-1 à L134-14)](#42)
-          - [Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température (art. L134-1)](#43)
-          - [Section 2 : L'exploitation des gîtes géothermiques à haute température (art. L134-2)](#44)
-          - [Section 3 : L'exploitation des gîtes géothermiques à basse température (art. L134-3 à L134-12)](#45)
-            - [Sous-section 1 : Champ d'application (art. L134-3)](#46)
-            - [Sous-section 2 : Dispositions générales (art. L134-4 à L134-9)](#47)
-            - [Sous-section 3 : Information et participation du public (art. L134-10 à L134-11)](#48)
-            - [Sous-section 4 : Dispositions diverses (art. L134-12)](#49)
-          - [Section 4 : L'exploitation de gîtes géothermiques sur plateau continental et dans la zone économique exclusive (art. L134-13 à L134-14)](#50)
-            - [Sous-section 1 : Dispositions générales (art. L134-13)](#51)
-            - [Sous-section 2 : Dispositions douanières et fiscales (art. L134-14)](#52)
-        - [Chapitre V : L'exploitation des stockages d'énergie calorifique (art. L135-1 à L135-3)](#53)
-        - [Chapitre VI : L'exploitation des mines ou gisements appartenant à l'Etat (art. L136-1 à L136-4)](#54)
-        - [Chapitre VII : L'exploitation par le titulaire d'un titre minier des haldes et des terrils (art. L137-1)](#55)
-      - [TITRE IV : DISPOSITIONS RELATIVES AUX TITRES MINIERS  ET AUX AUTORISATIONS (art. L141-1 à L144-6)](#56)
-        - [Chapitre Ier : Fusion des permis exclusifs de recherches contigus (art. L141-1 à L141-4)](#57)
-          - [Section 1 : Permis exclusifs de recherches de mines (art. L141-1 à L141-2)](#58)
-          - [Section 2 : Permis exclusifs de recherches de gîtes géothermiques (art. L141-3)](#59)
-          - [Section 3 : Dispositions d'application (art. L141-4)](#60)
-        - [Chapitre II : Prolongation et extension des titres miniers (art. L142-1 à L142-16)](#61)
-          - [Section 1 : Prolongation (art. L142-1 à L142-11)](#62)
-            - [Sous-section 1 : Prolongation des permis exclusifs de recherches de mines (art. L142-1 à L142-6)](#63)
-            - [Sous-section 2 : Prolongation des concessions de mines (art. L142-7 à L142-9)](#64)
-            - [Sous-section 3 : Prolongation des titres de géothermie (art. L142-10 à L142-11)](#65)
-          - [Section 2 : Extension des titres (art. L142-12 à L142-15)](#66)
-            - [Sous-section 1 : Extension des titres miniers (art. L142-12 à L142-14)](#67)
-            - [Sous-section 2 : Extension des titres de géothermie (art. L142-15)](#68)
-          - [Section 3 : Dispositions diverses (art. L142-16)](#69)
-        - [Chapitre III : Mutation et amodiation des titres (art. L143-1 à L143-15)](#70)
-          - [Section 1 : Mutation (art. L143-1 à L143-8)](#71)
-            - [Sous-section 1 : Mutation des titres miniers (art. L143-1 à L143-7)](#72)
-            - [Sous-section 2 : Mutation des titres de géothermie (art. L143-8)](#73)
-          - [Section 2 : Amodiation des concessions (art. L143-9 à L143-14)](#74)
-            - [Sous-section 1 : Amodiation des concessions de mines (art. L143-9 à L143-13)](#75)
-            - [Sous-section 2 : Amodiation des titres de géothermie (art. L143-14)](#76)
-          - [Section 3 : Dispositions d'application (art. L143-15)](#77)
-        - [Chapitre IV : Expiration des droits de recherches et d'exploitation (art. L144-1 à L144-6)](#78)
-          - [Section 1 : Renonciation aux droits (art. L144-1 à L144-3)](#79)
-          - [Section 2 : Fin des concessions (art. L144-4)](#80)
-          - [Section 3 : Dispositions propres aux titres de géothermie (art. L144-5)](#81)
-          - [Section 4 : Dispositions d'application (art. L144-6)](#82)
-      - [TITRE V : DROITS ET OBLIGATIONS  LIES A L'ACTIVITE MINIERE (art. L151-1 à L157-1)](#83)
-        - [Chapitre Ier : Dispositions générales (art. L151-1)](#84)
-        - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux (art. L152-1)](#85)
-        - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers (art. L153-1 à L153-16)](#86)
-        - [Chapitre IV : Droits et obligations des propriétaires de la surface (art. L154-1 à L154-2)](#87)
-        - [Chapitre V : Droits et obligations en cas de dommages (art. L155-1 à L155-7)](#88)
-        - [Chapitre VI : Dispositions propres aux gîtes géothermiques (art. L156-1)](#89)
-        - [Chapitre VII : Dispositions propres aux stockages souterrains d'énergie calorifique (art. L157-1)](#90)
-      - [TITRE VI : TRAVAUX MINIERS (art. L161-1 à L165-2)](#91)
-        - [Chapitre Ier : Règles générales régissant les activités extractives (art. L161-1 à L161-2)](#92)
-        - [Chapitre II : Ouverture des travaux (art. L162-1 à L162-12)](#93)
-          - [Section 1 : Dispositions générales (art. L162-1 à L162-2)](#94)
-          - [Section 2 : Travaux soumis à autorisation (art. L162-3 à L162-9)](#95)
-            - [Sous-section 1 : Dispositions générales (art. L162-3 à L162-5)](#96)
-            - [Sous-section 2 : Dispositions propres aux autorisations de travaux en mer (art. L162-6 à L162-9)](#97)
-          - [Section 3 : Travaux soumis à déclaration (art. L162-10)](#98)
-          - [Section 4 : Dispositions diverses (art. L162-11 à L162-12)](#99)
-        - [Chapitre III : Arrêt des travaux (art. L163-1 à L163-12)](#100)
-        - [Chapitre IV : Dispositions propres aux gîtes géothermiques (art. L164-1 à L164-2)](#101)
-        - [Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique (art. L165-1 à L165-2)](#102)
-      - [TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES MINES (art. L171-1 à L178-1)](#103)
-        - [Chapitre Ier : Champ d'application (art. L171-1 à L171-2)](#104)
-        - [Chapitre II : Obligations faites aux exploitants (art. L172-1 à L172-2)](#105)
-        - [Chapitre III : Sanctions administratives (art. L173-1 à L173-7)](#106)
-        - [Chapitre IV : Prévention des risques (art. L174-1 à L174-12)](#107)
-        - [Chapitre V : Autorités chargées de la surveillance administrative et de la police des mines (art. L175-1 à L175-15)](#108)
-          - [Section 1 : Pouvoirs de police administrative (art. L175-1 à L175-4)](#109)
-          - [Section 2 : Garanties applicables aux visites effectuées dans le cadre des missions de police administrative (art. L175-5 à L175-15)](#110)
-        - [Chapitre VI : Police des mines en mer (art. L176-1 à L176-3)](#111)
-        - [Chapitre VII : Dispositions applicables aux gîtes géothermiques (art. L177-1)](#112)
-        - [Chapitre VIII : Dispositions applicables aux stockages souterrains d'énergie calorifique (art. L178-1)](#113)
-      - [TITRE VIII : SECURITE ET SANTE AU TRAVAIL (art. L180-1)](#114)
-      - [TITRE IX : AUTRES DISPOSITIONS SOCIALES (art. L191-1 à L192-35)](#115)
-        - [Chapitre Ier : Temps de travail (art. L191-1 à L191-2)](#116)
-        - [Chapitre II : Délégués mineurs (art. L192-1 à L192-35)](#117)
-          - [Section 1 : Missions (art. L192-1 à L192-6)](#118)
-          - [Section 2 : Circonscriptions (art. L192-7 à L192-8)](#119)
-          - [Section 3 : Elections (art. L192-9 à L192-22)](#120)
-          - [Section 4 : Protection du mandat (art. L192-23 à L192-24)](#121)
-          - [Section 5 : Fonctionnement et rémunération (art. L192-25 à L192-30)](#122)
-          - [Section 6 : Dispositions particulières aux délégués mineurs de fond (art. L192-31)](#123)
-          - [Section 7 : Dispositions diverses (art. L192-32 à L192-35)](#124)
-    - [LIVRE II : LE REGIME LEGAL  DES STOCKAGES SOUTERRAINS (art. L211-1 à L282-2)](#125)
-      - [TITRE IER : CHAMP D'APPLICATION (art. L211-1 à L211-3)](#126)
-        - [Chapitre unique : Dispositions générales (art. L211-1 à L211-3)](#127)
-      - [TITRE II : LA RECHERCHE DE STOCKAGE SOUTERRAIN (art. L221-1 à L221-3)](#128)
-        - [Chapitre unique : Conditions générales (art. L221-1 à L221-3)](#129)
-      - [TITRE III : L'EXPLOITATION DE STOCKAGE SOUTERRAIN (art. L231-1 à L231-10)](#130)
-        - [Chapitre unique : Conditions générales (art. L231-1 à L231-10)](#131)
-          - [Section 1 : Le droit d'exploiter (art. L231-1 à L231-2)](#132)
-          - [Section 2 : L'octroi des concessions de stockage souterrain (art. L231-3 à L231-6)](#133)
-          - [Section 3 : Effets des concessions de stockage souterrain (art. L231-7 à L231-8)](#134)
-          - [Section 5 : Dispositions diverses (art. L231-10)](#135)
-      - [TITRE IV : DISPOSITIONS RELATIVES AUX TITRES (art. L241-1 à L241-5)](#136)
-        - [Chapitre unique : Conditions générales (art. L241-1 à L241-5)](#137)
-          - [Section 1 : Prolongation des permis de recherches de stockage souterrain (art. L241-1)](#138)
-          - [Section 2 : Prolongation des concessions de stockage souterrain (art. L241-2)](#139)
-          - [Section 3 : Mutation et amodiation (art. L241-3)](#140)
-          - [Section 4 : Renonciation aux droits (art. L241-4)](#141)
-          - [Section 5 : Dispositions diverses (art. L241-5)](#142)
-      - [TITRE V : DROITS ET OBLIGATIONS LIES A L'ACTIVITE  DE STOCKAGE SOUTERRAIN (art. L251-1 à L255-2)](#143)
-        - [Chapitre Ier : Dispositions générales (art. L251-1)](#144)
-        - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux (art. L252-1 à L252-2)](#145)
-        - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers (art. L253-1 à L253-2)](#146)
-        - [Chapitre IV : Droits et obligations des propriétaires de la surface (art. L254-1 à L254-2)](#147)
-        - [Chapitre V : Droits et obligations en cas de dommages (art. L255-1 à L255-2)](#148)
-      - [TITRE VI : TRAVAUX DE STOCKAGE SOUTERRAIN (art. L261-1 à L264-3)](#149)
-        - [Chapitre Ier : Règles générales régissant les activités de stockage souterrain (art. L261-1 à L261-2)](#150)
-        - [Chapitre II : Ouverture des travaux (art. L262-1 à L262-3)](#151)
-        - [Chapitre III : Arrêt des travaux (art. L263-1 à L263-2)](#152)
-        - [Chapitre IV : Sécurité et prévention des risques technologiques (art. L264-1 à L264-3)](#153)
-          - [Section 1 : Servitudes d'utilité publique (art. L264-1)](#154)
-          - [Section 2 : Prévention des risques technologiques (art. L264-2)](#155)
-          - [Section 3 : Dispositions diverses (art. L264-3)](#156)
-      - [TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES STOCKAGES SOUTERRAINS (art. L271-1 à L274-2)](#157)
-        - [Chapitre Ier : Champ d'application (art. L271-1 à L271-2)](#158)
-        - [Chapitre II : Obligations (art. L272-1 à L272-2)](#159)
-        - [Chapitre III : Sanctions administratives (art. L273-1 à L273-2)](#160)
-        - [Chapitre IV : Pouvoirs de police administrative (art. L274-1 à L274-2)](#161)
-      - [TITRE VIII : DISPOSITIONS DIVERSES (art. L281-1 à L282-2)](#162)
-        - [Chapitre Ier : Dispositions propres aux stockages souterrains de gaz naturel (art. L281-1)](#163)
-        - [Chapitre II : Frais à la charge du demandeur ou du titulaire de la concession de stockage souterrain (art. L282-1 à L282-2)](#164)
-    - [LIVRE III : REGIME LEGAL DES CARRIERES (art. L311-1 à L352-3)](#165)
-      - [TITRE IER : CHAMP D'APPLICATION (art. L311-1 à L312-11)](#166)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-3)](#167)
-        - [Chapitre II : Passage dans la catégorie des substances de mines (art. L312-1 à L312-11)](#168)
-      - [TITRE II : LA RECHERCHE DANS LES ZONES  SPECIALES DE CARRIERES (art. L321-1 à L322-8)](#169)
-        - [Chapitre Ier : Définition (art. L321-1)](#170)
-        - [Chapitre II : L'autorisation de recherches (art. L322-1 à L322-8)](#171)
-      - [TITRE III : L'EXPLOITATION DES CARRIERES (art. L331-1 à L336-1)](#172)
-        - [Chapitre Ier : Régime de l'exploitation des carrières (art. L331-1)](#173)
-        - [Chapitre II : Droit d'exploiter (art. L332-1 à L332-6)](#174)
-          - [Section 1 : Principes (art. L332-1 à L332-5)](#175)
-          - [Section 2 : Droits et obligations des propriétaires à l'égard des exploitants (art. L332-6)](#176)
-        - [Chapitre III : Modalités particulières d'exploitation dans les zones spéciales de carrières (art. L333-1 à L333-12)](#177)
-        - [Chapitre IV : Modalités particulières d'exploitation dans les zones d'exploitation coordonnée des carrières (art. L334-1 à L334-10)](#178)
-          - [Section 1 : Dispositions générales (art. L334-1 à L334-6)](#179)
-          - [Section 2 : Schéma d'exploitation coordonnée (art. L334-7 à L334-9)](#180)
-          - [Section 3 : Dispositions d'application (art. L334-10)](#181)
-        - [Chapitre V : Exploitation des déchets de mines, de carrières et d'affouillement (art. L335-1)](#182)
-        - [Chapitre VI : Droit de préemption des communes et des départements (art. L336-1)](#183)
-      - [TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES (art. L341-1)](#184)
-        - [Chapitre unique (art. L341-1)](#185)
-      - [TITRE V : REGLEMENTATION SOCIALE (art. L351-1 à L352-3)](#186)
-        - [Chapitre Ier : Santé et sécurité au travail (art. L351-1)](#187)
-        - [Chapitre II : Délégués à la sécurité des ouvriers des carrières (art. L352-1 à L352-3)](#188)
-    - [LIVRE IV : FOUILLES ET LEVES GEOPHYSIQUES (art. L411-1 à L415-1)](#189)
-      - [TITRE UNIQUE : CONDITIONS GENERALES (art. L411-1 à L415-1)](#190)
-        - [Chapitre Ier : Déclarations préalables (art. L411-1 à L411-3)](#191)
-        - [Chapitre II : Prérogatives des personnes publiques (art. L412-1 à L412-6)](#192)
-        - [Chapitre III : Publicité et cession des renseignements recueillis (art. L413-1 à L413-3)](#193)
-        - [Chapitre IV : Dispositions applicables aux gîtes géothermiques (art. L414-1)](#194)
-        - [Chapitre V : Dispositions applicables aux stockages souterrains (art. L415-1)](#195)
-    - [LIVRE V : INFRACTIONS ET SANCTIONS PENALES (art. L511-1 à L513-6)](#196)
-      - [TITRE UNIQUE (art. L511-1 à L513-6)](#197)
-        - [Chapitre Ier : Constatation des infractions (art. L511-1)](#198)
-        - [Chapitre II : Sanctions pénales (art. L512-1 à L512-12)](#199)
-          - [Section 1 : Dispositions communes (art. L512-1 à L512-12)](#200)
-        - [Chapitre III : Dispositions particulières (art. L513-1 à L513-6)](#201)
-          - [Section 1 : Dispositions applicables aux infractions commises sur le domaine public maritime (art. L513-1 à L513-3)](#202)
-          - [Section 3 : Dispositions applicables sur le plateau continental et dans la zone économique exclusive (art. L513-4 à L513-5-2)](#203)
-          - [Section 4 : Dispositions applicables aux gîtes géothermiques (art. L513-6)](#204)
-    - [LIVRE VI : DISPOSITIONS RELATIVES A L'OUTRE MER (art. L611-1 à L691-6)](#205)
-      - [TITRE IER : DISPOSITIONS COMMUNES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA REUNION ET A MAYOTTE (art. L611-1 à L615-3)](#206)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier (art. L611-1 à L611-35)](#207)
-          - [Section 1 : Régime de l'exploitation des mines (art. L611-1 à L611-28)](#208)
-            - [Sous-section 1 : L'autorisation d'exploitation (art. L611-3 à L611-16)](#209)
-            - [Sous-section 2 : Le permis d'exploitation (art. L611-17 à L611-28)](#210)
-          - [Section 2 : Compétences de la région en mer (art. L611-29 à L611-34)](#211)
-            - [Sous-section 1 : Champ d'application (art. L611-29 à L611-34)](#212)
-          - [Section 3 : Compétence réglementaire du représentant de l'Etat (art. L611-35)](#213)
-        - [Chapitre V : Dispositions d'adaptation du livre V (art. L615-1 à L615-3)](#214)
-      - [TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE (art. L621-1 à L622-3)](#215)
-        - [Chapitre Ier : Dispositions particulières à la Guyane (art. L621-1 à L621-14)](#216)
-          - [Section 1 : Le schéma départemental d'orientation minière (art. L621-1 à L621-7)](#217)
-          - [Section 2 : Dispositions pénales (art. L621-8 à L621-8-2)](#218)
-          - [Section 3 : Autres dispositions d'adaptation (art. L621-9 à L621-11)](#219)
-            - [Sous-section 1 : Information du public (art. L621-9 à L621-10)](#220)
-            - [Sous-section 2 : Mise en concurrence (art. L621-11)](#221)
-          - [Section 4 : Matériels soumis à un régime particulier (art. L621-12 à L621-14)](#222)
-        - [Chapitre II : Dispositions particulières à Mayotte (art. L622-1 à L622-3)](#223)
-          - [Section 1 : Dispositions générales d'adaptation (art. L622-1 à L622-3)](#224)
-      - [TITRE III : SAINT BARTHELEMY (art. L631-1)](#225)
-        - [Chapitre Ier : Dispositions générales d'adaptation (art. L631-1)](#226)
-      - [TITRE IV : SAINT MARTIN (art. L641-1)](#227)
-        - [Chapitre Ier : Dispositions générales (art. L641-1)](#228)
-      - [TITRE V : SAINT PIERRE ET MIQUELON (art. L651-1 à L652-2)](#229)
-        - [Chapitre Ier : Dispositions générales (art. L651-1)](#230)
-        - [Chapitre II : Dispositions d'adaptation du livre Ier (art. L652-1 à L652-2)](#231)
-      - [TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L661-1 à L663-1)](#232)
-        - [Chapitre Ier : Dispositions générales (art. L661-1 à L661-3)](#233)
-        - [Chapitre II : Contrôle administratif et constatation des infractions (art. L662-1)](#234)
-        - [Chapitre III : Redevances (art. L663-1)](#235)
-      - [TITRE VII : POLYNESIE FRANCAISE (art. L671-1 à L671-5)](#236)
-        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques (art. L671-1 à L671-5)](#237)
-      - [TITRE VIII : NOUVELLE CALEDONIE (art. L681-1 à L681-5)](#238)
-        - [Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique (art. L681-1 à L681-5)](#239)
-      - [TITRE IX : ILES WALLIS ET FUTUNA (art. L691-1 à L691-6)](#240)
-        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales (art. L691-1 à L691-6)](#241)
+          - [Section 3 : Arrêt de la recherche et de l'exploitation des hydrocarbures et du charbon (art. L111-4 à L111-12)](#7)
+          - [Section 4 : Interdiction de la recherche et de l'exploitation des hydrocarbures par fracturation hydraulique ou par toute autre méthode non conventionnelle (art. L111-13 à L111-14)](#8)
+        - [Chapitre II : Les gîtes géothermiques (art. L112-1 à L112-3)](#9)
+      - [TITRE II : LA RECHERCHE (art. L121-1 à L126-2)](#10)
+        - [Chapitre Ier : Dispositions générales (art. L121-1 à L121-5)](#11)
+        - [Chapitre II : Le permis exclusif de recherches (art. L122-1 à L122-3)](#12)
+          - [Section 1 : Dispositions générales (art. L122-1 à L122-3)](#13)
+        - [Chapitre III : La recherche en mer (art. L123-1 à L123-15)](#14)
+          - [Section 1 : La recherche de toute substance minérale ou fossile sur le plateau continental et dans la zone économique exclusive (art. L123-1 à L123-4)](#15)
+          - [Section 2 : La recherche des substances de carrière dans les fonds marins du domaine public (art. L123-5 à L123-15)](#16)
+            - [Sous-section 1 : Dispositions générales (art. L123-5 à L123-7)](#17)
+            - [Sous-section 2 : Information et participation du public (art. L123-8 à L123-12)](#18)
+            - [Sous-section 3 : Dispositions propres aux autorisations de prospections préalables (art. L123-13 à L123-15)](#19)
+        - [Chapitre IV : La recherche de gîtes géothermiques (art. L124-1 à L124-9)](#20)
+          - [Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température (art. L124-1)](#21)
+          - [Section 2 : La recherche de gîtes géothermiques à haute température (art. L124-2)](#22)
+          - [Section 3 : La recherche de gîtes géothermiques à basse température (art. L124-3 à L124-9)](#23)
+            - [Sous-section 1 : Champ d'application (art. L124-3)](#24)
+            - [Sous-section 2 : Dispositions générales (art. L124-4 à L124-5)](#25)
+            - [Sous-section 3 : Information et participation du public (art. L124-6 à L124-8)](#26)
+            - [Sous-section 4 : Dispositions diverses (art. L124-9)](#27)
+        - [Chapitre V : La recherche de gîtes géothermiques sur le plateau continental et dans la zone économique exclusive (art. L125-1)](#28)
+        - [Chapitre VI : La recherche de stockages d'énergie calorifique (art. L126-1 à L126-2)](#29)
+      - [TITRE III : L'EXPLOITATION (art. L131-1 à L137-1)](#30)
+        - [Chapitre Ier : Le droit d'exploiter (art. L131-1 à L131-5)](#31)
+        - [Chapitre II : Les concessions (art. L132-1 à L132-18)](#32)
+          - [Section 1 : Octroi des concessions (art. L132-1 à L132-7)](#33)
+          - [Section 2 : Effets des concessions (art. L132-8 à L132-13)](#34)
+          - [Section 3 : Rejet des demandes de concession (art. L132-14)](#35)
+          - [Section 4 : Redevances (art. L132-15 à L132-16-1)](#36)
+          - [Section 5 : Dispositions diverses (art. L132-17 à L132-18)](#37)
+        - [Chapitre III : L'exploitation en mer (art. L133-1 à L133-13)](#38)
+          - [Section 1 : L'exploitation des substances minérales ou fossiles sur le plateau continental et dans la zone économique exclusive (art. L133-1 à L133-4)](#39)
+          - [Section 2 : L'exploitation des gîtes contenant des substances de carrière dans les fonds marins du domaine public (art. L133-5 à L133-13)](#40)
+            - [Sous-section 1 : Champ d'application (art. L133-5)](#41)
+            - [Sous-section 2 : Dispositions générales (art. L133-6 à L133-10)](#42)
+            - [Sous-section 3 : Information et participation du public (art. L133-11 à L133-13)](#43)
+        - [Chapitre IV : L'exploitation des gîtes géothermiques (art. L134-1 à L134-14)](#44)
+          - [Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température (art. L134-1)](#45)
+          - [Section 2 : L'exploitation des gîtes géothermiques à haute température (art. L134-2)](#46)
+          - [Section 3 : L'exploitation des gîtes géothermiques à basse température (art. L134-3 à L134-12)](#47)
+            - [Sous-section 1 : Champ d'application (art. L134-3)](#48)
+            - [Sous-section 2 : Dispositions générales (art. L134-4 à L134-9)](#49)
+            - [Sous-section 3 : Information et participation du public (art. L134-10 à L134-11)](#50)
+            - [Sous-section 4 : Dispositions diverses (art. L134-12)](#51)
+          - [Section 4 : L'exploitation de gîtes géothermiques sur plateau continental et dans la zone économique exclusive (art. L134-13 à L134-14)](#52)
+            - [Sous-section 1 : Dispositions générales (art. L134-13)](#53)
+            - [Sous-section 2 : Dispositions douanières et fiscales (art. L134-14)](#54)
+        - [Chapitre V : L'exploitation des stockages d'énergie calorifique (art. L135-1 à L135-3)](#55)
+        - [Chapitre VI : L'exploitation des mines ou gisements appartenant à l'Etat (art. L136-1 à L136-4)](#56)
+        - [Chapitre VII : L'exploitation par le titulaire d'un titre minier des haldes et des terrils (art. L137-1)](#57)
+      - [TITRE IV : DISPOSITIONS RELATIVES AUX TITRES MINIERS  ET AUX AUTORISATIONS (art. L141-1 à L144-6)](#58)
+        - [Chapitre Ier : Fusion des permis exclusifs de recherches contigus (art. L141-1 à L141-4)](#59)
+          - [Section 1 : Permis exclusifs de recherches de mines (art. L141-1 à L141-2)](#60)
+          - [Section 2 : Permis exclusifs de recherches de gîtes géothermiques (art. L141-3)](#61)
+          - [Section 3 : Dispositions d'application (art. L141-4)](#62)
+        - [Chapitre II : Prolongation et extension des titres miniers (art. L142-1 à L142-16)](#63)
+          - [Section 1 : Prolongation (art. L142-1 à L142-11)](#64)
+            - [Sous-section 1 : Prolongation des permis exclusifs de recherches de mines (art. L142-1 à L142-6)](#65)
+            - [Sous-section 2 : Prolongation des concessions de mines (art. L142-7 à L142-9)](#66)
+            - [Sous-section 3 : Prolongation des titres de géothermie (art. L142-10 à L142-11)](#67)
+          - [Section 2 : Extension des titres (art. L142-12 à L142-15)](#68)
+            - [Sous-section 1 : Extension des titres miniers (art. L142-12 à L142-14)](#69)
+            - [Sous-section 2 : Extension des titres de géothermie (art. L142-15)](#70)
+          - [Section 3 : Dispositions diverses (art. L142-16)](#71)
+        - [Chapitre III : Mutation et amodiation des titres (art. L143-1 à L143-15)](#72)
+          - [Section 1 : Mutation (art. L143-1 à L143-8)](#73)
+            - [Sous-section 1 : Mutation des titres miniers (art. L143-1 à L143-7)](#74)
+            - [Sous-section 2 : Mutation des titres de géothermie (art. L143-8)](#75)
+          - [Section 2 : Amodiation des concessions (art. L143-9 à L143-14)](#76)
+            - [Sous-section 1 : Amodiation des concessions de mines (art. L143-9 à L143-13)](#77)
+            - [Sous-section 2 : Amodiation des titres de géothermie (art. L143-14)](#78)
+          - [Section 3 : Dispositions d'application (art. L143-15)](#79)
+        - [Chapitre IV : Expiration des droits de recherches et d'exploitation (art. L144-1 à L144-6)](#80)
+          - [Section 1 : Renonciation aux droits (art. L144-1 à L144-3)](#81)
+          - [Section 2 : Fin des concessions (art. L144-4)](#82)
+          - [Section 3 : Dispositions propres aux titres de géothermie (art. L144-5)](#83)
+          - [Section 4 : Dispositions d'application (art. L144-6)](#84)
+      - [TITRE V : DROITS ET OBLIGATIONS  LIES A L'ACTIVITE MINIERE (art. L151-1 à L157-1)](#85)
+        - [Chapitre Ier : Dispositions générales (art. L151-1)](#86)
+        - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux (art. L152-1)](#87)
+        - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers (art. L153-1 à L153-16)](#88)
+        - [Chapitre IV : Droits et obligations des propriétaires de la surface (art. L154-1 à L154-2)](#89)
+        - [Chapitre V : Droits et obligations en cas de dommages (art. L155-1 à L155-7)](#90)
+        - [Chapitre VI : Dispositions propres aux gîtes géothermiques (art. L156-1)](#91)
+        - [Chapitre VII : Dispositions propres aux stockages souterrains d'énergie calorifique (art. L157-1)](#92)
+      - [TITRE VI : TRAVAUX MINIERS (art. L161-1 à L165-2)](#93)
+        - [Chapitre Ier : Règles générales régissant les activités extractives (art. L161-1 à L161-2)](#94)
+        - [Chapitre II : Ouverture des travaux (art. L162-1 à L162-12)](#95)
+          - [Section 1 : Dispositions générales (art. L162-1 à L162-2)](#96)
+          - [Section 2 : Travaux soumis à autorisation (art. L162-3 à L162-9)](#97)
+            - [Sous-section 1 : Dispositions générales (art. L162-3 à L162-5)](#98)
+            - [Sous-section 2 : Dispositions propres aux autorisations de travaux en mer (art. L162-6 à L162-9)](#99)
+          - [Section 3 : Travaux soumis à déclaration (art. L162-10)](#100)
+          - [Section 4 : Dispositions diverses (art. L162-11 à L162-12)](#101)
+        - [Chapitre III : Arrêt des travaux (art. L163-1 à L163-12)](#102)
+        - [Chapitre IV : Dispositions propres aux gîtes géothermiques (art. L164-1 à L164-2)](#103)
+        - [Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique (art. L165-1 à L165-2)](#104)
+      - [TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES MINES (art. L171-1 à L178-1)](#105)
+        - [Chapitre Ier : Champ d'application (art. L171-1 à L171-2)](#106)
+        - [Chapitre II : Obligations faites aux exploitants (art. L172-1 à L172-2)](#107)
+        - [Chapitre III : Sanctions administratives (art. L173-1 à L173-7)](#108)
+        - [Chapitre IV : Prévention des risques (art. L174-1 à L174-12)](#109)
+        - [Chapitre V : Autorités chargées de la surveillance administrative et de la police des mines (art. L175-1 à L175-15)](#110)
+          - [Section 1 : Pouvoirs de police administrative (art. L175-1 à L175-4)](#111)
+          - [Section 2 : Garanties applicables aux visites effectuées dans le cadre des missions de police administrative (art. L175-5 à L175-15)](#112)
+        - [Chapitre VI : Police des mines en mer (art. L176-1 à L176-3)](#113)
+        - [Chapitre VII : Dispositions applicables aux gîtes géothermiques (art. L177-1)](#114)
+        - [Chapitre VIII : Dispositions applicables aux stockages souterrains d'énergie calorifique (art. L178-1)](#115)
+      - [TITRE VIII : SECURITE ET SANTE AU TRAVAIL (art. L180-1)](#116)
+      - [TITRE IX : AUTRES DISPOSITIONS SOCIALES (art. L191-1 à L192-35)](#117)
+        - [Chapitre Ier : Temps de travail (art. L191-1 à L191-2)](#118)
+        - [Chapitre II : Délégués mineurs (art. L192-1 à L192-35)](#119)
+          - [Section 1 : Missions (art. L192-1 à L192-6)](#120)
+          - [Section 2 : Circonscriptions (art. L192-7 à L192-8)](#121)
+          - [Section 3 : Elections (art. L192-9 à L192-22)](#122)
+          - [Section 4 : Protection du mandat (art. L192-23 à L192-24)](#123)
+          - [Section 5 : Fonctionnement et rémunération (art. L192-25 à L192-30)](#124)
+          - [Section 6 : Dispositions particulières aux délégués mineurs de fond (art. L192-31)](#125)
+          - [Section 7 : Dispositions diverses (art. L192-32 à L192-35)](#126)
+    - [LIVRE II : LE REGIME LEGAL  DES STOCKAGES SOUTERRAINS (art. L211-1 à L282-2)](#127)
+      - [TITRE IER : CHAMP D'APPLICATION (art. L211-1 à L211-3)](#128)
+        - [Chapitre unique : Dispositions générales (art. L211-1 à L211-3)](#129)
+      - [TITRE II : LA RECHERCHE DE STOCKAGE SOUTERRAIN (art. L221-1 à L221-3)](#130)
+        - [Chapitre unique : Conditions générales (art. L221-1 à L221-3)](#131)
+      - [TITRE III : L'EXPLOITATION DE STOCKAGE SOUTERRAIN (art. L231-1 à L231-10)](#132)
+        - [Chapitre unique : Conditions générales (art. L231-1 à L231-10)](#133)
+          - [Section 1 : Le droit d'exploiter (art. L231-1 à L231-2)](#134)
+          - [Section 2 : L'octroi des concessions de stockage souterrain (art. L231-3 à L231-6)](#135)
+          - [Section 3 : Effets des concessions de stockage souterrain (art. L231-7 à L231-8)](#136)
+          - [Section 5 : Dispositions diverses (art. L231-10)](#137)
+      - [TITRE IV : DISPOSITIONS RELATIVES AUX TITRES (art. L241-1 à L241-5)](#138)
+        - [Chapitre unique : Conditions générales (art. L241-1 à L241-5)](#139)
+          - [Section 1 : Prolongation des permis de recherches de stockage souterrain (art. L241-1)](#140)
+          - [Section 2 : Prolongation des concessions de stockage souterrain (art. L241-2)](#141)
+          - [Section 3 : Mutation et amodiation (art. L241-3)](#142)
+          - [Section 4 : Renonciation aux droits (art. L241-4)](#143)
+          - [Section 5 : Dispositions diverses (art. L241-5)](#144)
+      - [TITRE V : DROITS ET OBLIGATIONS LIES A L'ACTIVITE  DE STOCKAGE SOUTERRAIN (art. L251-1 à L255-2)](#145)
+        - [Chapitre Ier : Dispositions générales (art. L251-1)](#146)
+        - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux (art. L252-1 à L252-2)](#147)
+        - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers (art. L253-1 à L253-2)](#148)
+        - [Chapitre IV : Droits et obligations des propriétaires de la surface (art. L254-1 à L254-2)](#149)
+        - [Chapitre V : Droits et obligations en cas de dommages (art. L255-1 à L255-2)](#150)
+      - [TITRE VI : TRAVAUX DE STOCKAGE SOUTERRAIN (art. L261-1 à L264-3)](#151)
+        - [Chapitre Ier : Règles générales régissant les activités de stockage souterrain (art. L261-1 à L261-2)](#152)
+        - [Chapitre II : Ouverture des travaux (art. L262-1 à L262-3)](#153)
+        - [Chapitre III : Arrêt des travaux (art. L263-1 à L263-2)](#154)
+        - [Chapitre IV : Sécurité et prévention des risques technologiques (art. L264-1 à L264-3)](#155)
+          - [Section 1 : Servitudes d'utilité publique (art. L264-1)](#156)
+          - [Section 2 : Prévention des risques technologiques (art. L264-2)](#157)
+          - [Section 3 : Dispositions diverses (art. L264-3)](#158)
+      - [TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES STOCKAGES SOUTERRAINS (art. L271-1 à L274-2)](#159)
+        - [Chapitre Ier : Champ d'application (art. L271-1 à L271-2)](#160)
+        - [Chapitre II : Obligations (art. L272-1 à L272-2)](#161)
+        - [Chapitre III : Sanctions administratives (art. L273-1 à L273-2)](#162)
+        - [Chapitre IV : Pouvoirs de police administrative (art. L274-1 à L274-2)](#163)
+      - [TITRE VIII : DISPOSITIONS DIVERSES (art. L281-1 à L282-2)](#164)
+        - [Chapitre Ier : Dispositions propres aux stockages souterrains de gaz naturel (art. L281-1)](#165)
+        - [Chapitre II : Frais à la charge du demandeur ou du titulaire de la concession de stockage souterrain (art. L282-1 à L282-2)](#166)
+    - [LIVRE III : REGIME LEGAL DES CARRIERES (art. L311-1 à L352-3)](#167)
+      - [TITRE IER : CHAMP D'APPLICATION (art. L311-1 à L312-11)](#168)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-3)](#169)
+        - [Chapitre II : Passage dans la catégorie des substances de mines (art. L312-1 à L312-11)](#170)
+      - [TITRE II : LA RECHERCHE DANS LES ZONES  SPECIALES DE CARRIERES (art. L321-1 à L322-8)](#171)
+        - [Chapitre Ier : Définition (art. L321-1)](#172)
+        - [Chapitre II : L'autorisation de recherches (art. L322-1 à L322-8)](#173)
+      - [TITRE III : L'EXPLOITATION DES CARRIERES (art. L331-1 à L336-1)](#174)
+        - [Chapitre Ier : Régime de l'exploitation des carrières (art. L331-1)](#175)
+        - [Chapitre II : Droit d'exploiter (art. L332-1 à L332-6)](#176)
+          - [Section 1 : Principes (art. L332-1 à L332-5)](#177)
+          - [Section 2 : Droits et obligations des propriétaires à l'égard des exploitants (art. L332-6)](#178)
+        - [Chapitre III : Modalités particulières d'exploitation dans les zones spéciales de carrières (art. L333-1 à L333-12)](#179)
+        - [Chapitre IV : Modalités particulières d'exploitation dans les zones d'exploitation coordonnée des carrières (art. L334-1 à L334-10)](#180)
+          - [Section 1 : Dispositions générales (art. L334-1 à L334-6)](#181)
+          - [Section 2 : Schéma d'exploitation coordonnée (art. L334-7 à L334-9)](#182)
+          - [Section 3 : Dispositions d'application (art. L334-10)](#183)
+        - [Chapitre V : Exploitation des déchets de mines, de carrières et d'affouillement (art. L335-1)](#184)
+        - [Chapitre VI : Droit de préemption des communes et des départements (art. L336-1)](#185)
+      - [TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES (art. L341-1)](#186)
+        - [Chapitre unique (art. L341-1)](#187)
+      - [TITRE V : REGLEMENTATION SOCIALE (art. L351-1 à L352-3)](#188)
+        - [Chapitre Ier : Santé et sécurité au travail (art. L351-1)](#189)
+        - [Chapitre II : Délégués à la sécurité des ouvriers des carrières (art. L352-1 à L352-3)](#190)
+    - [LIVRE IV : FOUILLES ET LEVES GEOPHYSIQUES (art. L411-1 à L415-1)](#191)
+      - [TITRE UNIQUE : CONDITIONS GENERALES (art. L411-1 à L415-1)](#192)
+        - [Chapitre Ier : Déclarations préalables (art. L411-1 à L411-3)](#193)
+        - [Chapitre II : Prérogatives des personnes publiques (art. L412-1 à L412-6)](#194)
+        - [Chapitre III : Publicité et cession des renseignements recueillis (art. L413-1 à L413-3)](#195)
+        - [Chapitre IV : Dispositions applicables aux gîtes géothermiques (art. L414-1)](#196)
+        - [Chapitre V : Dispositions applicables aux stockages souterrains (art. L415-1)](#197)
+    - [LIVRE V : INFRACTIONS ET SANCTIONS PENALES (art. L511-1 à L513-6)](#198)
+      - [TITRE UNIQUE (art. L511-1 à L513-6)](#199)
+        - [Chapitre Ier : Constatation des infractions (art. L511-1)](#200)
+        - [Chapitre II : Sanctions pénales (art. L512-1 à L512-12)](#201)
+          - [Section 1 : Dispositions communes (art. L512-1 à L512-12)](#202)
+        - [Chapitre III : Dispositions particulières (art. L513-1 à L513-6)](#203)
+          - [Section 1 : Dispositions applicables aux infractions commises sur le domaine public maritime (art. L513-1 à L513-3)](#204)
+          - [Section 3 : Dispositions applicables sur le plateau continental et dans la zone économique exclusive (art. L513-4 à L513-5-2)](#205)
+          - [Section 4 : Dispositions applicables aux gîtes géothermiques (art. L513-6)](#206)
+    - [LIVRE VI : DISPOSITIONS RELATIVES A L'OUTRE MER (art. L611-1 à L691-6)](#207)
+      - [TITRE IER : DISPOSITIONS COMMUNES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA REUNION ET A MAYOTTE (art. L611-1 à L615-3)](#208)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier (art. L611-1 à L611-35)](#209)
+          - [Section 1 : Régime de l'exploitation des mines (art. L611-1 à L611-28)](#210)
+            - [Sous-section 1 : L'autorisation d'exploitation (art. L611-3 à L611-16)](#211)
+            - [Sous-section 2 : Le permis d'exploitation (art. L611-17 à L611-28)](#212)
+          - [Section 2 : Compétences de la région en mer (art. L611-29 à L611-34)](#213)
+            - [Sous-section 1 : Champ d'application (art. L611-29 à L611-34)](#214)
+          - [Section 3 : Compétence réglementaire du représentant de l'Etat (art. L611-35)](#215)
+        - [Chapitre V : Dispositions d'adaptation du livre V (art. L615-1 à L615-3)](#216)
+      - [TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE (art. L621-1 à L622-3)](#217)
+        - [Chapitre Ier : Dispositions particulières à la Guyane (art. L621-1 à L621-14)](#218)
+          - [Section 1 : Le schéma départemental d'orientation minière (art. L621-1 à L621-7)](#219)
+          - [Section 2 : Dispositions pénales (art. L621-8 à L621-8-2)](#220)
+          - [Section 3 : Autres dispositions d'adaptation (art. L621-9 à L621-11)](#221)
+            - [Sous-section 1 : Information du public (art. L621-9 à L621-10)](#222)
+            - [Sous-section 2 : Mise en concurrence (art. L621-11)](#223)
+          - [Section 4 : Matériels soumis à un régime particulier (art. L621-12 à L621-14)](#224)
+        - [Chapitre II : Dispositions particulières à Mayotte (art. L622-1 à L622-3)](#225)
+          - [Section 1 : Dispositions générales d'adaptation (art. L622-1 à L622-3)](#226)
+      - [TITRE III : SAINT BARTHELEMY (art. L631-1)](#227)
+        - [Chapitre Ier : Dispositions générales d'adaptation (art. L631-1)](#228)
+      - [TITRE IV : SAINT MARTIN (art. L641-1)](#229)
+        - [Chapitre Ier : Dispositions générales (art. L641-1)](#230)
+      - [TITRE V : SAINT PIERRE ET MIQUELON (art. L651-1 à L652-2)](#231)
+        - [Chapitre Ier : Dispositions générales (art. L651-1)](#232)
+        - [Chapitre II : Dispositions d'adaptation du livre Ier (art. L652-1 à L652-2)](#233)
+      - [TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L661-1 à L663-1)](#234)
+        - [Chapitre Ier : Dispositions générales (art. L661-1 à L661-3)](#235)
+        - [Chapitre II : Contrôle administratif et constatation des infractions (art. L662-1)](#236)
+        - [Chapitre III : Redevances (art. L663-1)](#237)
+      - [TITRE VII : POLYNESIE FRANCAISE (art. L671-1 à L671-5)](#238)
+        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques (art. L671-1 à L671-5)](#239)
+      - [TITRE VIII : NOUVELLE CALEDONIE (art. L681-1 à L681-5)](#240)
+        - [Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique (art. L681-1 à L681-5)](#241)
+      - [TITRE IX : ILES WALLIS ET FUTUNA (art. L691-1 à L691-6)](#242)
+        - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales (art. L691-1 à L691-6)](#243)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ###### Article L100-1
@@ -295,8 +297,8 @@ _Cité par_:
 Relèvent du régime légal des mines les gîtes renfermés dans le sein de la terre ou existant à la surface connus pour contenir
 les substances minérales ou fossiles suivantes :
 
-1° De la houille, du lignite, ou d'autres combustibles fossiles, la tourbe exceptée, des bitumes, des hydrocarbures liquides
-ou gazeux, du graphite, du diamant ;
+1° Des hydrocarbures et des combustibles fossiles, la tourbe exceptée, qu'ils soient sous forme solide, liquide ou gazeuse,
+du graphite, du diamant ;
 
 2° Des sels de sodium et de potassium à l'état solide ou en dissolution, à l'exception de ceux contenus dans les eaux salées
 utilisées à des fins thérapeutiques ou de loisirs ;
@@ -330,6 +332,10 @@ pour l'alimentation humaine ou à des fins thérapeutiques ;
 15° Du béryllium, du gallium, du thallium.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 _Cité par_:
 
@@ -368,13 +374,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L311-1 (V)
   - Code minier (nouveau) - art. L611-29 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
 
 _Anciens textes_:
 
@@ -449,7 +451,210 @@ _Cité par_:
   - Code minier (nouveau) - art. L311-2 (V)
 
 
-#### Chapitre II : Les gîtes géothermiques<a id=7></a>
+##### Section 3 : Arrêt de la recherche et de l'exploitation des hydrocarbures et du charbon<a id=7></a>
+
+###### Article L111-4
+
+Par dérogation aux titres II à IV du présent livre, la recherche et l'exploitation des hydrocarbures liquides ou gazeux et du
+charbon sont régies par les dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-5
+
+Pour l'application de la présente section, est considéré comme “ gaz de mine ” le gaz situé dans les veines de charbon
+préalablement exploitées dont la récupération s'effectue sans interventions autres que celles rendues nécessaires pour
+maintenir en dépression les vides miniers contenant ce gaz afin de l'aspirer.
+
+Un gaz dont la récupération nécessiterait la mise en œuvre d'actions de stimulation, cavitation ou fracturation du gisement
+ne peut être considéré, pour l'application de la présente section, comme du “ gaz de mine ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-6
+
+Il est mis fin progressivement à la recherche et à l'exploitation du charbon et de tous les hydrocarbures liquides ou gazeux,
+quelle que soit la technique employée, à l'exception du gaz de mine défini à l'article L. 111-5, afin de parvenir à un arrêt
+définitif de ces activités, dans les conditions et selon les modalités fixées par la présente section.
+
+Les hydrocarbures liquides ou gazeux connexes, au sens de l'article L. 121-5, à un gisement faisant l'objet d'un titre
+d'exploitation de mines pour une substance non mentionnée au premier alinéa du présent article ne peuvent être exploités par
+le titulaire et doivent être laissés dans le sous-sol.
+
+Par exception au deuxième alinéa du présent article, le titulaire est autorisé par l'autorité administrative à intégrer ces
+hydrocarbures dans un processus industriel dès lors que leur extraction est reconnue comme le préalable indispensable à la
+valorisation des substances sur lesquelles porte le titre d'exploitation ou qu'elle résulte d'impératifs liés à la maîtrise
+des risques. La valorisation éventuelle des hydrocarbures ainsi extraits est strictement limitée à un usage local, sans
+injection dans un réseau de transport ou liquéfaction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-7
+
+Le détenteur d'un titre d'exploitation de mines pour une substance mentionnée au premier alinéa de l'article L. 111-6 a
+droit, s'il en fait la demande au plus tard quatre ans avant l'échéance de son titre, à la conversion de ce titre en titre
+d'exploitation portant sur une substance non mentionnée au même premier alinéa ou un autre usage du sous-sol mentionné dans
+le présent code dès lors qu'il démontre à l'autorité administrative, d'une part, la connexité, au sens de l'article L. 121-5,
+entre la nouvelle substance ou le nouvel usage et les hydrocarbures contenus dans le gisement et, d'autre part, la
+rentabilité économique de la poursuite de l'exploitation du gisement.
+
+Cette conversion est réalisée dans les conditions prévues à la sous-section 2 de la section 1 du chapitre II du titre IV du
+présent livre, sans mise en concurrence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-8
+
+L'article L. 111-6 s'applique à la recherche et à l'exploitation dans le sous-sol et à la surface du territoire terrestre et
+du domaine public maritime, dans le fond de la mer et dans le sous-sol de la zone économique exclusive et du plateau
+continental définis, respectivement, aux articles 11 et 14 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux
+espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 10 (V)
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-9
+
+Il n'est plus accordé par l'autorité compétente de :
+
+1° Permis exclusif de recherches ou d'autorisation de prospections préalables en vue de la recherche, y compris à des fins
+expérimentales, portant sur une ou des substances mentionnées au premier alinéa de l'article L. 111-6 ;
+
+2° Concession en vue de l'exploitation de ces mêmes substances, sauf dans le cas prévu à l'article L. 132-6 ;
+
+3° Prolongation d'une concession portant sur ces mêmes substances pour une durée dont l'échéance excède le 1er janvier 2040.
+
+La prolongation d'un permis exclusif de recherches portant sur ces mêmes substances demeure autorisée en application de
+l'article L. 142-1 et du second alinéa de l'article L. 142-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-10
+
+Si la protection de l'environnement, de la sécurité et de la santé publiques ou d'autres usages existants ou planifiés du sol
+ou du sous-sol le justifient, un cahier des charges précise les prescriptions particulières qui s'imposent au titulaire du
+titre minier.
+
+Le cahier des charges est établi par l'autorité administrative compétente pour délivrer un titre minier d'exploration ou
+d'exploitation d'hydrocarbures, ou accorder son extension ou sa prolongation. Il tient compte du résultat de l'instruction
+administrative de la demande de titre minier, de son extension ou de sa prolongation et, dans le cas où cette demande a
+nécessité la mise en œuvre d'une procédure de participation du public, l'autorité administrative peut compléter le cahier des
+charges pour prendre en compte les résultats de la procédure de participation du public. Le cahier des charges est porté à la
+connaissance du demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-11
+
+Les titres miniers et autorisations régulièrement délivrés avant le lendemain de la publication de la loi n° 2017-1839 du 30
+décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures et portant diverses dispositions
+relatives à l'énergie et à l'environnement ainsi que ceux qui demeurent valides en application de la présente section
+continuent, jusqu'à leur échéance, d'être régis par les dispositions du présent code qui leur sont applicables ainsi que par
+le chapitre III du titre II du livre Ier du code de l'environnement et par la loi n° 2011-835 du 13 juillet 2011 visant à
+interdire l'exploration et l'exploitation des mines d'hydrocarbures liquides ou gazeux par fracturation hydraulique et à
+abroger les permis exclusifs de recherches comportant des projets ayant recours à cette technique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+###### Article L111-12
+
+La durée des concessions attribuées en application de l'article L. 132-6 à compter de la publication de la loi n° 2017-1839
+du 30 décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures et portant diverses dispositions
+relatives à l'énergie et à l'environnement ne peut permettre de dépasser l'échéance du 1er janvier 2040, sauf lorsque le
+titulaire du permis exclusif de recherches démontre à l'autorité administrative que la limitation de la durée de la
+concession induite par cette échéance ne permet pas de couvrir ses coûts de recherche et d'exploitation, en vue d'atteindre
+l'équilibre économique, par l'exploitation du gisement découvert à l'intérieur du périmètre de ce permis pendant la validité
+de celui-ci. Dans ce dernier cas, l'autorité administrative fixe les modalités de prise en compte des coûts de recherche et
+d'exploitation dans le décret en Conseil d'Etat prévu à l'article L. 132-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 2
+
+
+##### Section 4 : Interdiction de la recherche et de l'exploitation des hydrocarbures par fracturation hydraulique ou par toute autre méthode non conventionnelle<a id=8></a>
+
+###### Article L111-13
+
+En application de la Charte de l'environnement de 2004 et du principe d'action préventive et de correction prévu à l'article
+L. 110-1 du code de l'environnement, la recherche et l'exploitation des hydrocarbures liquides ou gazeux par des forages
+suivis de fracturation hydraulique de la roche sont interdites sur le territoire national. Sont également interdites sur le
+territoire national la recherche et l'exploitation des hydrocarbures liquides ou gazeux par des forages suivis de l'emploi de
+toute autre méthode conduisant à ce que la pression de pore soit supérieure à la pression lithostatique de la formation
+géologique, sauf pour des actions ponctuelles de maintenance opérationnelle ou de sécurité du puits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 6 (V)
+
+
+###### Article L111-14
+
+I.-A compter de la publication de la loi n° 2017-1839 du 30 décembre 2017 mettant fin à la recherche ainsi qu'à
+l'exploitation des hydrocarbures et portant diverses dispositions relatives à l'énergie et à l'environnement, tout demandeur
+d'un titre ou d'une autorisation concernant une ou des substances mentionnées à l'article L. 111-6 remet à l'autorité
+administrative, au moment du dépôt de sa demande, un rapport démontrant l'absence de recours aux techniques interdites en
+application de l'article L. 111-13. L'autorité administrative rend public ce rapport avant le démarrage de l'exploration ou
+de l'exploitation.
+
+II.-Si le demandeur n'a pas remis le rapport prescrit au I du présent article ou si le rapport ne démontre pas l'absence de
+recours à une méthode interdite en application de l'article L. 111-13, le titre n'est pas délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 6 (V)
+
+
+#### Chapitre II : Les gîtes géothermiques<a id=9></a>
 
 ###### Article L112-1
 
@@ -535,9 +740,9 @@ _Cite_:
   - Code minier (nouveau) - art. L161-1 (V)
 
 
-### TITRE II : LA RECHERCHE<a id=8></a>
+### TITRE II : LA RECHERCHE<a id=10></a>
 
-#### Chapitre Ier : Dispositions générales<a id=9></a>
+#### Chapitre Ier : Dispositions générales<a id=11></a>
 
 ###### Article L121-1
 
@@ -674,9 +879,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L142-12 (V)
 
 
-#### Chapitre II : Le permis exclusif de recherches<a id=10></a>
+#### Chapitre II : Le permis exclusif de recherches<a id=12></a>
 
-##### Section 1 : Dispositions générales<a id=11></a>
+##### Section 1 : Dispositions générales<a id=13></a>
 
 ###### Article L122-1
 
@@ -758,9 +963,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L123-2 (V)
 
 
-#### Chapitre III : La recherche en mer<a id=12></a>
+#### Chapitre III : La recherche en mer<a id=14></a>
 
-##### Section 1 : La recherche de toute substance minérale ou fossile sur le plateau continental et dans la zone économique exclusive<a id=13></a>
+##### Section 1 : La recherche de toute substance minérale ou fossile sur le plateau continental et dans la zone économique exclusive<a id=15></a>
 
 ###### Article L123-1
 
@@ -908,9 +1113,9 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-##### Section 2 : La recherche des substances de carrière dans les fonds marins du domaine public<a id=14></a>
+##### Section 2 : La recherche des substances de carrière dans les fonds marins du domaine public<a id=16></a>
 
-##### Sous-section 1 : Dispositions générales<a id=15></a>
+##### Sous-section 1 : Dispositions générales<a id=17></a>
 
 ###### Article L123-5
 
@@ -1002,7 +1207,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L162-8 (V)
 
 
-##### Sous-section 2 : Information et participation du public<a id=16></a>
+##### Sous-section 2 : Information et participation du public<a id=18></a>
 
 ###### Article L123-8
 
@@ -1121,7 +1326,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Sous-section 3 : Dispositions propres aux autorisations de prospections préalables<a id=17></a>
+##### Sous-section 3 : Dispositions propres aux autorisations de prospections préalables<a id=19></a>
 
 ###### Article L123-13
 
@@ -1197,9 +1402,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L123-3 (V)
 
 
-#### Chapitre IV : La recherche de gîtes géothermiques<a id=18></a>
+#### Chapitre IV : La recherche de gîtes géothermiques<a id=20></a>
 
-##### Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température<a id=19></a>
+##### Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température<a id=21></a>
 
 ###### Article L124-1
 
@@ -1229,7 +1434,7 @@ _Cite_:
   - Code minier (nouveau) - art. L121-4 (V)
 
 
-##### Section 2 : La recherche de gîtes géothermiques à haute température<a id=20></a>
+##### Section 2 : La recherche de gîtes géothermiques à haute température<a id=22></a>
 
 ###### Article L124-2
 
@@ -1255,9 +1460,9 @@ _Cite_:
   - Code minier (nouveau) - art. L124-1 (V)
 
 
-##### Section 3 : La recherche de gîtes géothermiques à basse température<a id=21></a>
+##### Section 3 : La recherche de gîtes géothermiques à basse température<a id=23></a>
 
-##### Sous-section 1 : Champ d'application<a id=22></a>
+##### Sous-section 1 : Champ d'application<a id=24></a>
 
 ###### Article L124-3
 
@@ -1275,7 +1480,7 @@ _Modifié par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 66
 
 
-##### Sous-section 2 : Dispositions générales<a id=23></a>
+##### Sous-section 2 : Dispositions générales<a id=25></a>
 
 ###### Article L124-4
 
@@ -1335,7 +1540,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L134-9 (V)
 
 
-##### Sous-section 3 : Information et participation du public<a id=24></a>
+##### Sous-section 3 : Information et participation du public<a id=26></a>
 
 ###### Article L124-6
 
@@ -1416,7 +1621,7 @@ _Cite_:
   - Code minier (nouveau) - art. L124-6 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=25></a>
+##### Sous-section 4 : Dispositions diverses<a id=27></a>
 
 ###### Article L124-9
 
@@ -1437,7 +1642,7 @@ _Anciens textes_:
   - Code minier - art. 102 (Ab), ecqc les décrets en Conseil d'Etat
 
 
-#### Chapitre V : La recherche de gîtes géothermiques sur le plateau continental et dans la zone économique exclusive<a id=26></a>
+#### Chapitre V : La recherche de gîtes géothermiques sur le plateau continental et dans la zone économique exclusive<a id=28></a>
 
 ###### Article L125-1
 
@@ -1465,7 +1670,7 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-#### Chapitre VI : La recherche de stockages d'énergie calorifique<a id=27></a>
+#### Chapitre VI : La recherche de stockages d'énergie calorifique<a id=29></a>
 
 ###### Article L126-1
 
@@ -1520,9 +1725,9 @@ _Cite_:
   - Code minier (nouveau) - art. L126-1 (V)
 
 
-### TITRE III : L'EXPLOITATION<a id=28></a>
+### TITRE III : L'EXPLOITATION<a id=30></a>
 
-#### Chapitre Ier : Le droit d'exploiter<a id=29></a>
+#### Chapitre Ier : Le droit d'exploiter<a id=31></a>
 
 ###### Article L131-1
 
@@ -1686,9 +1891,9 @@ _Cite_:
   - Code minier (nouveau) - art. L311-2 (V)
 
 
-#### Chapitre II : Les concessions<a id=30></a>
+#### Chapitre II : Les concessions<a id=32></a>
 
-##### Section 1 : Octroi des concessions<a id=31></a>
+##### Section 1 : Octroi des concessions<a id=33></a>
 
 ###### Article L132-1
 
@@ -1890,7 +2095,7 @@ _Cité par_:
   - Code de l'environnement - art. L229-44 (V)
 
 
-##### Section 2 : Effets des concessions<a id=32></a>
+##### Section 2 : Effets des concessions<a id=34></a>
 
 ###### Article L132-8
 
@@ -2023,6 +2228,20 @@ _Cité par_:
   - Code minier (nouveau) - art. L312-5 (V)
 
 
+###### Article L132-12-1
+
+Cinq ans avant la fin de sa concession et dans des conditions prévues par décret en Conseil d'Etat, l'exploitant remet à
+l'autorité administrative un dossier présentant le potentiel de reconversion de ses installations ou de leur site
+d'implantation pour d'autres usages du sous-sol, notamment la géothermie, ou pour d'autres activités économiques, en
+particulier l'implantation d'énergies renouvelables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 4
+
+
 ###### Article L132-13
 
 En fin de concession et dans des conditions prévues par décret en Conseil d'Etat :
@@ -2055,7 +2274,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-34 (V)
 
 
-##### Section 3 : Rejet des demandes de concession<a id=33></a>
+##### Section 3 : Rejet des demandes de concession<a id=35></a>
 
 ###### Article L132-14
 
@@ -2077,7 +2296,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 4 : Redevances<a id=34></a>
+##### Section 4 : Redevances<a id=36></a>
 
 ###### Article L132-15
 
@@ -2292,7 +2511,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2321-1 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=35></a>
+##### Section 5 : Dispositions diverses<a id=37></a>
 
 ###### Article L132-17
 
@@ -2336,9 +2555,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre III : L'exploitation en mer<a id=36></a>
+#### Chapitre III : L'exploitation en mer<a id=38></a>
 
-##### Section 1 : L'exploitation des substances minérales ou fossiles sur le plateau continental et dans la zone économique exclusive<a id=37></a>
+##### Section 1 : L'exploitation des substances minérales ou fossiles sur le plateau continental et dans la zone économique exclusive<a id=39></a>
 
 ###### Article L133-1
 
@@ -2469,9 +2688,9 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-##### Section 2 : L'exploitation des gîtes contenant des substances de carrière dans les fonds marins du domaine public<a id=38></a>
+##### Section 2 : L'exploitation des gîtes contenant des substances de carrière dans les fonds marins du domaine public<a id=40></a>
 
-##### Sous-section 1 : Champ d'application<a id=39></a>
+##### Sous-section 1 : Champ d'application<a id=41></a>
 
 ###### Article L133-5
 
@@ -2503,7 +2722,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L652-1 (V)
 
 
-##### Sous-section 2 : Dispositions générales<a id=40></a>
+##### Sous-section 2 : Dispositions générales<a id=42></a>
 
 ###### Article L133-6
 
@@ -2639,7 +2858,7 @@ _Cite_:
   - Code minier (nouveau) - art. L111-1 (V)
 
 
-##### Sous-section 3 : Information et participation du public<a id=41></a>
+##### Sous-section 3 : Information et participation du public<a id=43></a>
 
 ###### Article L133-11
 
@@ -2712,9 +2931,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre IV : L'exploitation des gîtes géothermiques<a id=42></a>
+#### Chapitre IV : L'exploitation des gîtes géothermiques<a id=44></a>
 
-##### Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température<a id=43></a>
+##### Section 1 : Dispositions communes aux gîtes géothermiques à basse et à haute température<a id=45></a>
 
 ###### Article L134-1
 
@@ -2739,7 +2958,7 @@ _Cite_:
   - Code minier (nouveau) - art. L131-5 (V)
 
 
-##### Section 2 : L'exploitation des gîtes géothermiques à haute température<a id=44></a>
+##### Section 2 : L'exploitation des gîtes géothermiques à haute température<a id=46></a>
 
 ###### Article L134-2
 
@@ -2767,9 +2986,9 @@ _Cite_:
   - Code minier (nouveau) - art. L132-16 (V)
 
 
-##### Section 3 : L'exploitation des gîtes géothermiques à basse température<a id=45></a>
+##### Section 3 : L'exploitation des gîtes géothermiques à basse température<a id=47></a>
 
-##### Sous-section 1 : Champ d'application<a id=46></a>
+##### Sous-section 1 : Champ d'application<a id=48></a>
 
 ###### Article L134-3
 
@@ -2787,7 +3006,7 @@ _Modifié par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 66
 
 
-##### Sous-section 2 : Dispositions générales<a id=47></a>
+##### Sous-section 2 : Dispositions générales<a id=49></a>
 
 ###### Article L134-4
 
@@ -2941,7 +3160,7 @@ _Cite_:
   - Code minier (nouveau) - art. L124-5 (V)
 
 
-##### Sous-section 3 : Information et participation du public<a id=48></a>
+##### Sous-section 3 : Information et participation du public<a id=50></a>
 
 ###### Article L134-10
 
@@ -3000,7 +3219,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Sous-section 4 : Dispositions diverses<a id=49></a>
+##### Sous-section 4 : Dispositions diverses<a id=51></a>
 
 ###### Article L134-12
 
@@ -3021,9 +3240,9 @@ _Anciens textes_:
   - Code minier - art. 102 (Ab) ecqc les décrets en Conseil d'Etat pour l'exploitation de gites géothermiques
 
 
-##### Section 4 : L'exploitation de gîtes géothermiques sur plateau continental et dans la zone économique exclusive<a id=50></a>
+##### Section 4 : L'exploitation de gîtes géothermiques sur plateau continental et dans la zone économique exclusive<a id=52></a>
 
-##### Sous-section 1 : Dispositions générales<a id=51></a>
+##### Sous-section 1 : Dispositions générales<a id=53></a>
 
 ###### Article L134-13
 
@@ -3051,7 +3270,7 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-##### Sous-section 2 : Dispositions douanières et fiscales<a id=52></a>
+##### Sous-section 2 : Dispositions douanières et fiscales<a id=54></a>
 
 ###### Article L134-14
 
@@ -3074,7 +3293,7 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-#### Chapitre V : L'exploitation des stockages d'énergie calorifique<a id=53></a>
+#### Chapitre V : L'exploitation des stockages d'énergie calorifique<a id=55></a>
 
 ###### Article L135-1
 
@@ -3154,7 +3373,7 @@ _Cite_:
   - Code minier (nouveau) - art. L135-1 (V)
 
 
-#### Chapitre VI : L'exploitation des mines ou gisements appartenant à l'Etat<a id=54></a>
+#### Chapitre VI : L'exploitation des mines ou gisements appartenant à l'Etat<a id=56></a>
 
 ###### Article L136-1
 
@@ -3237,7 +3456,7 @@ _Anciens textes_:
   - Code minier - art. 67 (Ab)
 
 
-#### Chapitre VII : L'exploitation par le titulaire d'un titre minier des haldes et des terrils<a id=55></a>
+#### Chapitre VII : L'exploitation par le titulaire d'un titre minier des haldes et des terrils<a id=57></a>
 
 ###### Article L137-1
 
@@ -3265,11 +3484,11 @@ _Anciens textes_:
   - Code minier - art. 130 (Ab), 1er alinéa
 
 
-### TITRE IV : DISPOSITIONS RELATIVES AUX TITRES MINIERS  ET AUX AUTORISATIONS<a id=56></a>
+### TITRE IV : DISPOSITIONS RELATIVES AUX TITRES MINIERS  ET AUX AUTORISATIONS<a id=58></a>
 
-#### Chapitre Ier : Fusion des permis exclusifs de recherches contigus<a id=57></a>
+#### Chapitre Ier : Fusion des permis exclusifs de recherches contigus<a id=59></a>
 
-##### Section 1 : Permis exclusifs de recherches de mines<a id=58></a>
+##### Section 1 : Permis exclusifs de recherches de mines<a id=60></a>
 
 ###### Article L141-1
 
@@ -3320,7 +3539,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-31 (V)
 
 
-##### Section 2 : Permis exclusifs de recherches de gîtes géothermiques<a id=59></a>
+##### Section 2 : Permis exclusifs de recherches de gîtes géothermiques<a id=61></a>
 
 ###### Article L141-3
 
@@ -3338,7 +3557,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 3 : Dispositions d'application<a id=60></a>
+##### Section 3 : Dispositions d'application<a id=62></a>
 
 ###### Article L141-4
 
@@ -3355,11 +3574,11 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre II : Prolongation et extension des titres miniers<a id=61></a>
+#### Chapitre II : Prolongation et extension des titres miniers<a id=63></a>
 
-##### Section 1 : Prolongation<a id=62></a>
+##### Section 1 : Prolongation<a id=64></a>
 
-##### Sous-section 1 : Prolongation des permis exclusifs de recherches de mines<a id=63></a>
+##### Sous-section 1 : Prolongation des permis exclusifs de recherches de mines<a id=65></a>
 
 ###### Article L142-1
 
@@ -3510,7 +3729,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Sous-section 2 : Prolongation des concessions de mines<a id=64></a>
+##### Sous-section 2 : Prolongation des concessions de mines<a id=66></a>
 
 ###### Article L142-7
 
@@ -3578,7 +3797,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Sous-section 3 : Prolongation des titres de géothermie<a id=65></a>
+##### Sous-section 3 : Prolongation des titres de géothermie<a id=67></a>
 
 ###### Article L142-10
 
@@ -3624,9 +3843,9 @@ _Anciens textes_:
   - Code minier - art. 100 (VT), alinéa 2, ecqc la prolongation des permis d'exploitation (basse température)
 
 
-##### Section 2 : Extension des titres<a id=66></a>
+##### Section 2 : Extension des titres<a id=68></a>
 
-##### Sous-section 1 : Extension des titres miniers<a id=67></a>
+##### Sous-section 1 : Extension des titres miniers<a id=69></a>
 
 ###### Article L142-12
 
@@ -3704,7 +3923,7 @@ _Cite_:
   - Code minier (nouveau) - art. L144-4 (V)
 
 
-##### Sous-section 2 : Extension des titres de géothermie<a id=68></a>
+##### Sous-section 2 : Extension des titres de géothermie<a id=70></a>
 
 ###### Article L142-15
 
@@ -3730,7 +3949,7 @@ _Cite_:
   - Code minier (nouveau) - art. L142-14 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=69></a>
+##### Section 3 : Dispositions diverses<a id=71></a>
 
 ###### Article L142-16
 
@@ -3747,11 +3966,11 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre III : Mutation et amodiation des titres<a id=70></a>
+#### Chapitre III : Mutation et amodiation des titres<a id=72></a>
 
-##### Section 1 : Mutation<a id=71></a>
+##### Section 1 : Mutation<a id=73></a>
 
-##### Sous-section 1 : Mutation des titres miniers<a id=72></a>
+##### Sous-section 1 : Mutation des titres miniers<a id=74></a>
 
 ###### Article L143-1
 
@@ -3915,7 +4134,7 @@ _Anciens textes_:
   - Code minier - art. 119-10 (Ab)
 
 
-##### Sous-section 2 : Mutation des titres de géothermie<a id=73></a>
+##### Sous-section 2 : Mutation des titres de géothermie<a id=75></a>
 
 ###### Article L143-8
 
@@ -3933,9 +4152,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 2 : Amodiation des concessions<a id=74></a>
+##### Section 2 : Amodiation des concessions<a id=76></a>
 
-##### Sous-section 1 : Amodiation des concessions de mines<a id=75></a>
+##### Sous-section 1 : Amodiation des concessions de mines<a id=77></a>
 
 ###### Article L143-9
 
@@ -4053,7 +4272,7 @@ _Anciens textes_:
   - Code minier - art. 119-5 (VT) alinéa 4
 
 
-##### Sous-section 2 : Amodiation des titres de géothermie<a id=76></a>
+##### Sous-section 2 : Amodiation des titres de géothermie<a id=78></a>
 
 ###### Article L143-14
 
@@ -4071,7 +4290,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 3 : Dispositions d'application<a id=77></a>
+##### Section 3 : Dispositions d'application<a id=79></a>
 
 ###### Article L143-15
 
@@ -4088,9 +4307,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre IV : Expiration des droits de recherches et d'exploitation<a id=78></a>
+#### Chapitre IV : Expiration des droits de recherches et d'exploitation<a id=80></a>
 
-##### Section 1 : Renonciation aux droits<a id=79></a>
+##### Section 1 : Renonciation aux droits<a id=81></a>
 
 ###### Article L144-1
 
@@ -4171,7 +4390,7 @@ _Cite_:
   - Code minier (nouveau) - art. L174-1 (V)
 
 
-##### Section 2 : Fin des concessions<a id=80></a>
+##### Section 2 : Fin des concessions<a id=82></a>
 
 ###### Article L144-4
 
@@ -4199,7 +4418,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L142-14 (V)
 
 
-##### Section 3 : Dispositions propres aux titres de géothermie<a id=81></a>
+##### Section 3 : Dispositions propres aux titres de géothermie<a id=83></a>
 
 ###### Article L144-5
 
@@ -4222,7 +4441,7 @@ _Cite_:
   - Code minier (nouveau) - art. L144-2 (V)
 
 
-##### Section 4 : Dispositions d'application<a id=82></a>
+##### Section 4 : Dispositions d'application<a id=84></a>
 
 ###### Article L144-6
 
@@ -4239,9 +4458,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE V : DROITS ET OBLIGATIONS  LIES A L'ACTIVITE MINIERE<a id=83></a>
+### TITRE V : DROITS ET OBLIGATIONS  LIES A L'ACTIVITE MINIERE<a id=85></a>
 
-#### Chapitre Ier : Dispositions générales<a id=84></a>
+#### Chapitre Ier : Dispositions générales<a id=86></a>
 
 ###### Article L151-1
 
@@ -4273,7 +4492,7 @@ _Cite_:
   - Code minier (nouveau) - art. L153-12 (V)
 
 
-#### Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux<a id=85></a>
+#### Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux<a id=87></a>
 
 ###### Article L152-1
 
@@ -4301,7 +4520,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L512-1 (V)
 
 
-#### Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers<a id=86></a>
+#### Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers<a id=88></a>
 
 ###### Article L153-1
 
@@ -4782,7 +5001,7 @@ _Anciens textes_:
   - Code minier - art. 71-6 (Ab)
 
 
-#### Chapitre IV : Droits et obligations des propriétaires de la surface<a id=87></a>
+#### Chapitre IV : Droits et obligations des propriétaires de la surface<a id=89></a>
 
 ###### Article L154-1
 
@@ -4847,7 +5066,7 @@ _Anciens textes_:
   - Code minier - art. 75-2 (Ab), alinéas 1, 2, 3 et 7
 
 
-#### Chapitre V : Droits et obligations en cas de dommages<a id=88></a>
+#### Chapitre V : Droits et obligations en cas de dommages<a id=90></a>
 
 ###### Article L155-1
 
@@ -5025,7 +5244,7 @@ _Anciens textes_:
   - Code minier - art. 75-3 (Ab)
 
 
-#### Chapitre VI : Dispositions propres aux gîtes géothermiques<a id=89></a>
+#### Chapitre VI : Dispositions propres aux gîtes géothermiques<a id=91></a>
 
 ###### Article L156-1
 
@@ -5042,7 +5261,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre VII : Dispositions propres aux stockages souterrains d'énergie calorifique<a id=90></a>
+#### Chapitre VII : Dispositions propres aux stockages souterrains d'énergie calorifique<a id=92></a>
 
 ###### Article L157-1
 
@@ -5063,9 +5282,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VI : TRAVAUX MINIERS<a id=91></a>
+### TITRE VI : TRAVAUX MINIERS<a id=93></a>
 
-#### Chapitre Ier : Règles générales régissant les activités extractives<a id=92></a>
+#### Chapitre Ier : Règles générales régissant les activités extractives<a id=94></a>
 
 ###### Article L161-1
 
@@ -5169,9 +5388,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-21 (V)
 
 
-#### Chapitre II : Ouverture des travaux<a id=93></a>
+#### Chapitre II : Ouverture des travaux<a id=95></a>
 
-##### Section 1 : Dispositions générales<a id=94></a>
+##### Section 1 : Dispositions générales<a id=96></a>
 
 ###### Article L162-1
 
@@ -5245,9 +5464,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-14 (V)
 
 
-##### Section 2 : Travaux soumis à autorisation<a id=95></a>
+##### Section 2 : Travaux soumis à autorisation<a id=97></a>
 
-##### Sous-section 1 : Dispositions générales<a id=96></a>
+##### Sous-section 1 : Dispositions générales<a id=98></a>
 
 ###### Article L162-3
 
@@ -5354,7 +5573,7 @@ _Cite_:
   - Code minier (nouveau) - art. L162-2 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux autorisations de travaux en mer<a id=97></a>
+##### Sous-section 2 : Dispositions propres aux autorisations de travaux en mer<a id=99></a>
 
 ###### Article L162-6
 
@@ -5540,7 +5759,7 @@ _Cite_:
   - Code minier (nouveau) - art. L111-1 (V)
 
 
-##### Section 3 : Travaux soumis à déclaration<a id=98></a>
+##### Section 3 : Travaux soumis à déclaration<a id=100></a>
 
 ###### Article L162-10
 
@@ -5568,7 +5787,7 @@ _Cite_:
   - Code minier (nouveau) - art. L161-1 (V)
 
 
-##### Section 4 : Dispositions diverses<a id=99></a>
+##### Section 4 : Dispositions diverses<a id=101></a>
 
 ###### Article L162-11
 
@@ -5614,7 +5833,7 @@ _Anciens textes_:
   - Code minier - art. 83 (Ab) ecqc le décret en CE
 
 
-#### Chapitre III : Arrêt des travaux<a id=100></a>
+#### Chapitre III : Arrêt des travaux<a id=102></a>
 
 ###### Article L163-1
 
@@ -5916,19 +6135,24 @@ installations et dont le montant est arrêté par l'autorité administrative.
 
 Les litiges auxquels donne lieu l'application du présent article sont réglés comme en matière de travaux publics.
 
+Sans préjudice de l'application des deux premiers alinéas du présent article, en vue de leur utilisation pour d'autres usages
+du sous-sol régis par le présent code, les installations d'exploration ou d'exploitation d'hydrocarbures liquides ou gazeux
+ainsi que les installations indispensables à la mine, au sens des articles L. 153-3 et L. 153-15, peuvent être converties ou
+cédées, en concertation et après avis des collectivités territoriales concernées, par l'explorateur ou l'exploitant à
+d'autres personnes publiques ou privées. Ce transfert s'accompagne du transfert des droits et obligations relatifs aux
+installations transférées mentionnés au titre V du présent livre. Il est approuvé par l'autorité administrative, sous réserve
+de l'exécution par le cédant de la procédure d'arrêt de travaux pour toutes les installations non nécessaires au nouvel usage
+projeté et sous réserve de l'octroi préalable d'un titre minier pour ce nouvel usage.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Anciens textes_:
-
-  - Code minier - art. 92 (VT)
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 5
 
 _Cité par_:
 
@@ -5955,7 +6179,7 @@ _Anciens textes_:
   - Code minier - art. 96 (Ab) ecqc l'arrêt des travaux
 
 
-#### Chapitre IV : Dispositions propres aux gîtes géothermiques<a id=101></a>
+#### Chapitre IV : Dispositions propres aux gîtes géothermiques<a id=103></a>
 
 ###### Article L164-1
 
@@ -6034,7 +6258,7 @@ _Cite_:
   - Code minier (nouveau) - art. L164-1
 
 
-#### Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique<a id=102></a>
+#### Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique<a id=104></a>
 
 ###### Article L165-1
 
@@ -6085,9 +6309,9 @@ _Cite_:
   - Code minier (nouveau) - art. L165-1 (V)
 
 
-### TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES MINES<a id=103></a>
+### TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES MINES<a id=105></a>
 
-#### Chapitre Ier : Champ d'application<a id=104></a>
+#### Chapitre Ier : Champ d'application<a id=106></a>
 
 ###### Article L171-1
 
@@ -6150,7 +6374,7 @@ _Cite_:
   - Code minier (nouveau) - art. L171-1 (V)
 
 
-#### Chapitre II : Obligations faites aux exploitants<a id=105></a>
+#### Chapitre II : Obligations faites aux exploitants<a id=107></a>
 
 ###### Article L172-1
 
@@ -6210,7 +6434,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-16 (V)
 
 
-#### Chapitre III : Sanctions administratives<a id=106></a>
+#### Chapitre III : Sanctions administratives<a id=108></a>
 
 ###### Article L173-1
 
@@ -6349,6 +6573,8 @@ application de l'article L. 173-2 ;
 des engagements souscrits et visés dans l'acte institutif, pour les permis de recherches de mines ou les autorisations de
 recherches de mines ;
 
+4° bis Inobservation de l'article L. 111-13 ;
+
 5° Absence ou insuffisance prolongée d'exploitation manifestement contraire aux possibilités du gisement ou à l'intérêt des
 consommateurs et non justifiées par l'état du marché ou exploitation effectuée dans des conditions telles qu'elle est de
 nature à compromettre sérieusement l'intérêt économique, la conservation et l'utilisation ultérieure du gisement, pour les
@@ -6363,6 +6589,10 @@ titres ou les autorisations d'exploitation ;
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+
 _Cité par_:
 
   - Décret n°78-498 du 28 mars 1978 - art. 17 (V)
@@ -6374,26 +6604,18 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-28 (V)
   - Code minier (nouveau) - art. L611-31 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Anciens textes_:
-
-  - Code minier - art. 119-1 (VT), alinéas 1 à 9
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 6 (V)
 
 _Cite_:
 
-  - Code minier (nouveau) - art. L121-4 (V)
-  - Code minier (nouveau) - art. L124-4 (V)
-  - Code minier (nouveau) - art. L131-5 (V)
-  - Code minier (nouveau) - art. L132-2 (V)
-  - Code minier (nouveau) - art. L134-4 (V)
-  - Code minier (nouveau) - art. L173-2 (V)
+  - Code minier (nouveau) - art. L121-4
+  - Code minier (nouveau) - art. L124-4
+  - Code minier (nouveau) - art. L131-5
+  - Code minier (nouveau) - art. L132-2
+  - Code minier (nouveau) - art. L134-4
+  - Code minier (nouveau) - art. L173-2
 
 
 ###### Article L173-6
@@ -6442,7 +6664,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L322-5 (V)
 
 
-#### Chapitre IV : Prévention des risques<a id=107></a>
+#### Chapitre IV : Prévention des risques<a id=109></a>
 
 ###### Article L174-1
 
@@ -6780,9 +7002,9 @@ _Anciens textes_:
   - Code minier - art. 96 (Ab) ecqc la prévention des risques
 
 
-#### Chapitre V : Autorités chargées de la surveillance administrative et de la police des mines<a id=108></a>
+#### Chapitre V : Autorités chargées de la surveillance administrative et de la police des mines<a id=110></a>
 
-##### Section 1 : Pouvoirs de police administrative<a id=109></a>
+##### Section 1 : Pouvoirs de police administrative<a id=111></a>
 
 ###### Article L175-1
 
@@ -6906,7 +7128,7 @@ _Anciens textes_:
   - Code minier - art. 87 (Ab), alinéa 2
 
 
-##### Section 2 : Garanties applicables aux visites effectuées dans le cadre des missions de police administrative<a id=110></a>
+##### Section 2 : Garanties applicables aux visites effectuées dans le cadre des missions de police administrative<a id=112></a>
 
 ###### Article L175-5
 
@@ -7158,7 +7380,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre VI : Police des mines en mer<a id=111></a>
+#### Chapitre VI : Police des mines en mer<a id=113></a>
 
 ###### Article L176-1
 
@@ -7246,7 +7468,7 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-#### Chapitre VII : Dispositions applicables aux gîtes géothermiques<a id=112></a>
+#### Chapitre VII : Dispositions applicables aux gîtes géothermiques<a id=114></a>
 
 ###### Article L177-1
 
@@ -7263,7 +7485,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre VIII : Dispositions applicables aux stockages souterrains d'énergie calorifique<a id=113></a>
+#### Chapitre VIII : Dispositions applicables aux stockages souterrains d'énergie calorifique<a id=115></a>
 
 ###### Article L178-1
 
@@ -7286,7 +7508,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VIII : SECURITE ET SANTE AU TRAVAIL<a id=114></a>
+### TITRE VIII : SECURITE ET SANTE AU TRAVAIL<a id=116></a>
 
 ###### Article L180-1
 
@@ -7304,9 +7526,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE IX : AUTRES DISPOSITIONS SOCIALES<a id=115></a>
+### TITRE IX : AUTRES DISPOSITIONS SOCIALES<a id=117></a>
 
-#### Chapitre Ier : Temps de travail<a id=116></a>
+#### Chapitre Ier : Temps de travail<a id=118></a>
 
 ###### Article L191-1
 
@@ -7360,9 +7582,9 @@ _Cite_:
   - Code minier (nouveau) - art. L191-1
 
 
-#### Chapitre II : Délégués mineurs<a id=117></a>
+#### Chapitre II : Délégués mineurs<a id=119></a>
 
-##### Section 1 : Missions<a id=118></a>
+##### Section 1 : Missions<a id=120></a>
 
 ###### Article L192-1
 
@@ -7509,7 +7731,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 2 : Circonscriptions<a id=119></a>
+##### Section 2 : Circonscriptions<a id=121></a>
 
 ###### Article L192-7
 
@@ -7556,7 +7778,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Section 3 : Elections<a id=120></a>
+##### Section 3 : Elections<a id=122></a>
 
 ###### Article L192-9
 
@@ -7916,7 +8138,7 @@ _Anciens textes_:
   - Code minier - art. 241 (Ab)
 
 
-##### Section 4 : Protection du mandat<a id=121></a>
+##### Section 4 : Protection du mandat<a id=123></a>
 
 ###### Article L192-23
 
@@ -7965,7 +8187,7 @@ _Anciens textes_:
   - Code minier - art. 244 (Ab)
 
 
-##### Section 5 : Fonctionnement et rémunération<a id=122></a>
+##### Section 5 : Fonctionnement et rémunération<a id=124></a>
 
 ###### Article L192-25
 
@@ -8159,7 +8381,7 @@ _Anciens textes_:
   - Code minier - art. 252 (Ab)
 
 
-##### Section 6 : Dispositions particulières aux délégués mineurs de fond<a id=123></a>
+##### Section 6 : Dispositions particulières aux délégués mineurs de fond<a id=125></a>
 
 ###### Article L192-31
 
@@ -8198,7 +8420,7 @@ _Anciens textes_:
   - Code minier - art. 224 (Ab), alinéas 2, 3 et 5 à 7
 
 
-##### Section 7 : Dispositions diverses<a id=124></a>
+##### Section 7 : Dispositions diverses<a id=126></a>
 
 ###### Article L192-32
 
@@ -8287,11 +8509,11 @@ _Anciens textes_:
   - Code minier - art. 250 (Ab)
 
 
-## LIVRE II : LE REGIME LEGAL  DES STOCKAGES SOUTERRAINS<a id=125></a>
+## LIVRE II : LE REGIME LEGAL  DES STOCKAGES SOUTERRAINS<a id=127></a>
 
-### TITRE IER : CHAMP D'APPLICATION<a id=126></a>
+### TITRE IER : CHAMP D'APPLICATION<a id=128></a>
 
-#### Chapitre unique : Dispositions générales<a id=127></a>
+#### Chapitre unique : Dispositions générales<a id=129></a>
 
 ###### Article L211-1
 
@@ -8413,9 +8635,9 @@ _Cite_:
   - Code minier (nouveau) - art. L211-2 (V)
 
 
-### TITRE II : LA RECHERCHE DE STOCKAGE SOUTERRAIN<a id=128></a>
+### TITRE II : LA RECHERCHE DE STOCKAGE SOUTERRAIN<a id=130></a>
 
-#### Chapitre unique : Conditions générales<a id=129></a>
+#### Chapitre unique : Conditions générales<a id=131></a>
 
 ###### Article L221-1
 
@@ -8477,11 +8699,11 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE III : L'EXPLOITATION DE STOCKAGE SOUTERRAIN<a id=130></a>
+### TITRE III : L'EXPLOITATION DE STOCKAGE SOUTERRAIN<a id=132></a>
 
-#### Chapitre unique : Conditions générales<a id=131></a>
+#### Chapitre unique : Conditions générales<a id=133></a>
 
-##### Section 1 : Le droit d'exploiter<a id=132></a>
+##### Section 1 : Le droit d'exploiter<a id=134></a>
 
 ###### Article L231-1
 
@@ -8530,7 +8752,7 @@ _Cite_:
   - Code minier (nouveau) - art. L131-3 (V)
 
 
-##### Section 2 : L'octroi des concessions de stockage souterrain<a id=133></a>
+##### Section 2 : L'octroi des concessions de stockage souterrain<a id=135></a>
 
 ###### Article L231-3
 
@@ -8639,7 +8861,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L231-5 (V)
 
 
-##### Section 3 : Effets des concessions de stockage souterrain<a id=134></a>
+##### Section 3 : Effets des concessions de stockage souterrain<a id=136></a>
 
 ###### Article L231-7
 
@@ -8684,7 +8906,7 @@ _Cite_:
   - Code minier (nouveau) - art. L132-8 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=135></a>
+##### Section 5 : Dispositions diverses<a id=137></a>
 
 ###### Article L231-10
 
@@ -8705,11 +8927,11 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE IV : DISPOSITIONS RELATIVES AUX TITRES<a id=136></a>
+### TITRE IV : DISPOSITIONS RELATIVES AUX TITRES<a id=138></a>
 
-#### Chapitre unique : Conditions générales<a id=137></a>
+#### Chapitre unique : Conditions générales<a id=139></a>
 
-##### Section 1 : Prolongation des permis de recherches de stockage souterrain<a id=138></a>
+##### Section 1 : Prolongation des permis de recherches de stockage souterrain<a id=140></a>
 
 ###### Article L241-1
 
@@ -8737,7 +8959,7 @@ _Cite_:
   - Code minier (nouveau) - art. L142-7 (V)
 
 
-##### Section 2 : Prolongation des concessions de stockage souterrain<a id=139></a>
+##### Section 2 : Prolongation des concessions de stockage souterrain<a id=141></a>
 
 ###### Article L241-2
 
@@ -8763,7 +8985,7 @@ _Cite_:
   - Code minier (nouveau) -  Sous-section 2 : Prolongation des concessions d... (V)
 
 
-##### Section 3 : Mutation et amodiation<a id=140></a>
+##### Section 3 : Mutation et amodiation<a id=142></a>
 
 ###### Article L241-3
 
@@ -8792,7 +9014,7 @@ _Cite_:
   - Code minier (nouveau) - art. L143-3 (V)
 
 
-##### Section 4 : Renonciation aux droits<a id=141></a>
+##### Section 4 : Renonciation aux droits<a id=143></a>
 
 ###### Article L241-4
 
@@ -8814,7 +9036,7 @@ _Cite_:
   - Code minier (nouveau) - art. L144-1 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=142></a>
+##### Section 5 : Dispositions diverses<a id=144></a>
 
 ###### Article L241-5
 
@@ -8835,9 +9057,9 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE V : DROITS ET OBLIGATIONS LIES A L'ACTIVITE  DE STOCKAGE SOUTERRAIN<a id=143></a>
+### TITRE V : DROITS ET OBLIGATIONS LIES A L'ACTIVITE  DE STOCKAGE SOUTERRAIN<a id=145></a>
 
-#### Chapitre Ier : Dispositions générales<a id=144></a>
+#### Chapitre Ier : Dispositions générales<a id=146></a>
 
 ###### Article L251-1
 
@@ -8862,7 +9084,7 @@ _Cite_:
   - Code minier (nouveau) - art. L151-1 (V)
 
 
-#### Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux<a id=145></a>
+#### Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux<a id=147></a>
 
 ###### Article L252-1
 
@@ -8905,7 +9127,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers<a id=146></a>
+#### Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers<a id=148></a>
 
 ###### Article L253-1
 
@@ -8950,7 +9172,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre IV : Droits et obligations des propriétaires de la surface<a id=147></a>
+#### Chapitre IV : Droits et obligations des propriétaires de la surface<a id=149></a>
 
 ###### Article L254-1
 
@@ -8995,7 +9217,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre V : Droits et obligations en cas de dommages<a id=148></a>
+#### Chapitre V : Droits et obligations en cas de dommages<a id=150></a>
 
 ###### Article L255-1
 
@@ -9040,9 +9262,9 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE VI : TRAVAUX DE STOCKAGE SOUTERRAIN<a id=149></a>
+### TITRE VI : TRAVAUX DE STOCKAGE SOUTERRAIN<a id=151></a>
 
-#### Chapitre Ier : Règles générales régissant les activités de stockage souterrain<a id=150></a>
+#### Chapitre Ier : Règles générales régissant les activités de stockage souterrain<a id=152></a>
 
 ###### Article L261-1
 
@@ -9083,7 +9305,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre II : Ouverture des travaux<a id=151></a>
+#### Chapitre II : Ouverture des travaux<a id=153></a>
 
 ###### Article L262-1
 
@@ -9162,7 +9384,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre III : Arrêt des travaux<a id=152></a>
+#### Chapitre III : Arrêt des travaux<a id=154></a>
 
 ###### Article L263-1
 
@@ -9209,9 +9431,9 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre IV : Sécurité et prévention des risques technologiques<a id=153></a>
+#### Chapitre IV : Sécurité et prévention des risques technologiques<a id=155></a>
 
-##### Section 1 : Servitudes d'utilité publique<a id=154></a>
+##### Section 1 : Servitudes d'utilité publique<a id=156></a>
 
 ###### Article L264-1
 
@@ -9254,7 +9476,7 @@ _Cité par_:
   - Code de l'urbanisme - art. L112-2 (VD)
 
 
-##### Section 2 : Prévention des risques technologiques<a id=155></a>
+##### Section 2 : Prévention des risques technologiques<a id=157></a>
 
 ###### Article L264-2
 
@@ -9276,7 +9498,7 @@ _Cite_:
   - Code minier (nouveau) - art. L211-2
 
 
-##### Section 3 : Dispositions diverses<a id=156></a>
+##### Section 3 : Dispositions diverses<a id=158></a>
 
 ###### Article L264-3
 
@@ -9297,9 +9519,9 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES STOCKAGES SOUTERRAINS<a id=157></a>
+### TITRE VII : SURVEILLANCE ADMINISTRATIVE  ET POLICE DES STOCKAGES SOUTERRAINS<a id=159></a>
 
-#### Chapitre Ier : Champ d'application<a id=158></a>
+#### Chapitre Ier : Champ d'application<a id=160></a>
 
 ###### Article L271-1
 
@@ -9339,7 +9561,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre II : Obligations<a id=159></a>
+#### Chapitre II : Obligations<a id=161></a>
 
 ###### Article L272-1
 
@@ -9384,7 +9606,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre III : Sanctions administratives<a id=160></a>
+#### Chapitre III : Sanctions administratives<a id=162></a>
 
 ###### Article L273-1
 
@@ -9439,7 +9661,7 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-#### Chapitre IV : Pouvoirs de police administrative<a id=161></a>
+#### Chapitre IV : Pouvoirs de police administrative<a id=163></a>
 
 ###### Article L274-1
 
@@ -9485,9 +9707,9 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-### TITRE VIII : DISPOSITIONS DIVERSES<a id=162></a>
+### TITRE VIII : DISPOSITIONS DIVERSES<a id=164></a>
 
-#### Chapitre Ier : Dispositions propres aux stockages souterrains de gaz naturel<a id=163></a>
+#### Chapitre Ier : Dispositions propres aux stockages souterrains de gaz naturel<a id=165></a>
 
 ###### Article L281-1
 
@@ -9509,7 +9731,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre II : Frais à la charge du demandeur ou du titulaire de la concession de stockage souterrain<a id=164></a>
+#### Chapitre II : Frais à la charge du demandeur ou du titulaire de la concession de stockage souterrain<a id=166></a>
 
 ###### Article L282-1
 
@@ -9550,11 +9772,11 @@ _Anciens textes_:
   - Code minier - art. 104-8 (Ab)
 
 
-## LIVRE III : REGIME LEGAL DES CARRIERES<a id=165></a>
+## LIVRE III : REGIME LEGAL DES CARRIERES<a id=167></a>
 
-### TITRE IER : CHAMP D'APPLICATION<a id=166></a>
+### TITRE IER : CHAMP D'APPLICATION<a id=168></a>
 
-#### Chapitre Ier : Dispositions générales<a id=167></a>
+#### Chapitre Ier : Dispositions générales<a id=169></a>
 
 ###### Article L311-1
 
@@ -9640,7 +9862,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L512-1 (V)
 
 
-#### Chapitre II : Passage dans la catégorie des substances de mines<a id=168></a>
+#### Chapitre II : Passage dans la catégorie des substances de mines<a id=170></a>
 
 ###### Article L312-1
 
@@ -9994,9 +10216,9 @@ _Cite_:
   - Code minier (nouveau) - art. L312-7 (V)
 
 
-### TITRE II : LA RECHERCHE DANS LES ZONES  SPECIALES DE CARRIERES<a id=169></a>
+### TITRE II : LA RECHERCHE DANS LES ZONES  SPECIALES DE CARRIERES<a id=171></a>
 
-#### Chapitre Ier : Définition<a id=170></a>
+#### Chapitre Ier : Définition<a id=172></a>
 
 ###### Article L321-1
 
@@ -10037,7 +10259,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L333-1 (V)
 
 
-#### Chapitre II : L'autorisation de recherches<a id=171></a>
+#### Chapitre II : L'autorisation de recherches<a id=173></a>
 
 ###### Article L322-1
 
@@ -10246,9 +10468,9 @@ _Anciens textes_:
   - Code minier - art. 119 (Ab)
 
 
-### TITRE III : L'EXPLOITATION DES CARRIERES<a id=172></a>
+### TITRE III : L'EXPLOITATION DES CARRIERES<a id=174></a>
 
-#### Chapitre Ier : Régime de l'exploitation des carrières<a id=173></a>
+#### Chapitre Ier : Régime de l'exploitation des carrières<a id=175></a>
 
 ###### Article L331-1
 
@@ -10275,9 +10497,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L334-6 (V)
 
 
-#### Chapitre II : Droit d'exploiter<a id=174></a>
+#### Chapitre II : Droit d'exploiter<a id=176></a>
 
-##### Section 1 : Principes<a id=175></a>
+##### Section 1 : Principes<a id=177></a>
 
 ###### Article L332-1
 
@@ -10410,7 +10632,7 @@ _Anciens textes_:
   - Code minier - art. 119 (Ab)
 
 
-##### Section 2 : Droits et obligations des propriétaires à l'égard des exploitants<a id=176></a>
+##### Section 2 : Droits et obligations des propriétaires à l'égard des exploitants<a id=178></a>
 
 ###### Article L332-6
 
@@ -10436,7 +10658,7 @@ _Anciens textes_:
   - Code minier - art. 107 bis (Ab)
 
 
-#### Chapitre III : Modalités particulières d'exploitation dans les zones spéciales de carrières<a id=177></a>
+#### Chapitre III : Modalités particulières d'exploitation dans les zones spéciales de carrières<a id=179></a>
 
 ###### Article L333-1
 
@@ -10742,9 +10964,9 @@ _Anciens textes_:
   - Code minier - art. 119 (Ab)
 
 
-#### Chapitre IV : Modalités particulières d'exploitation dans les zones d'exploitation coordonnée des carrières<a id=178></a>
+#### Chapitre IV : Modalités particulières d'exploitation dans les zones d'exploitation coordonnée des carrières<a id=180></a>
 
-##### Section 1 : Dispositions générales<a id=179></a>
+##### Section 1 : Dispositions générales<a id=181></a>
 
 ###### Article L334-1
 
@@ -10906,7 +11128,7 @@ _Cite_:
   - Code minier (nouveau) - art. L333-5 (V)
 
 
-##### Section 2 : Schéma d'exploitation coordonnée<a id=180></a>
+##### Section 2 : Schéma d'exploitation coordonnée<a id=182></a>
 
 ###### Article L334-7
 
@@ -10971,7 +11193,7 @@ _Anciens textes_:
   - Code minier - art. 109-1 (M), alinéa 2, ecqc les personnes élaborant le schéma
 
 
-##### Section 3 : Dispositions d'application<a id=181></a>
+##### Section 3 : Dispositions d'application<a id=183></a>
 
 ###### Article L334-10
 
@@ -10992,7 +11214,7 @@ _Anciens textes_:
   - Code minier - art. 119 (Ab)
 
 
-#### Chapitre V : Exploitation des déchets de mines, de carrières et d'affouillement<a id=182></a>
+#### Chapitre V : Exploitation des déchets de mines, de carrières et d'affouillement<a id=184></a>
 
 ###### Article L335-1
 
@@ -11027,7 +11249,7 @@ _Cite_:
   - Code minier (nouveau) - art. L137-1 (V)
 
 
-#### Chapitre VI : Droit de préemption des communes et des départements<a id=183></a>
+#### Chapitre VI : Droit de préemption des communes et des départements<a id=185></a>
 
 ###### Article L336-1
 
@@ -11050,9 +11272,9 @@ _Anciens textes_:
   - Code minier - art. 107-1 (Ab)
 
 
-### TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES<a id=184></a>
+### TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES<a id=186></a>
 
-#### Chapitre unique<a id=185></a>
+#### Chapitre unique<a id=187></a>
 
 ###### Article L341-1
 
@@ -11081,9 +11303,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L661-3 (V)
 
 
-### TITRE V : REGLEMENTATION SOCIALE<a id=186></a>
+### TITRE V : REGLEMENTATION SOCIALE<a id=188></a>
 
-#### Chapitre Ier : Santé et sécurité au travail<a id=187></a>
+#### Chapitre Ier : Santé et sécurité au travail<a id=189></a>
 
 ###### Article L351-1
 
@@ -11101,7 +11323,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre II : Délégués à la sécurité des ouvriers des carrières<a id=188></a>
+#### Chapitre II : Délégués à la sécurité des ouvriers des carrières<a id=190></a>
 
 ###### Article L352-1
 
@@ -11169,11 +11391,11 @@ _Anciens textes_:
   - Code minier - art. 252 (Ab)
 
 
-## LIVRE IV : FOUILLES ET LEVES GEOPHYSIQUES<a id=189></a>
+## LIVRE IV : FOUILLES ET LEVES GEOPHYSIQUES<a id=191></a>
 
-### TITRE UNIQUE : CONDITIONS GENERALES<a id=190></a>
+### TITRE UNIQUE : CONDITIONS GENERALES<a id=192></a>
 
-#### Chapitre Ier : Déclarations préalables<a id=191></a>
+#### Chapitre Ier : Déclarations préalables<a id=193></a>
 
 ###### Article L411-1
 
@@ -11266,7 +11488,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L512-5 (VD)
 
 
-#### Chapitre II : Prérogatives des personnes publiques<a id=192></a>
+#### Chapitre II : Prérogatives des personnes publiques<a id=194></a>
 
 ###### Article L412-1
 
@@ -11434,7 +11656,7 @@ _Cite_:
   - Code minier (nouveau) - art. L412-1
 
 
-#### Chapitre III : Publicité et cession des renseignements recueillis<a id=193></a>
+#### Chapitre III : Publicité et cession des renseignements recueillis<a id=195></a>
 
 ###### Article L413-1
 
@@ -11549,7 +11771,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L512-5 (VD)
 
 
-#### Chapitre IV : Dispositions applicables aux gîtes géothermiques<a id=194></a>
+#### Chapitre IV : Dispositions applicables aux gîtes géothermiques<a id=196></a>
 
 ###### Article L414-1
 
@@ -11566,7 +11788,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre V : Dispositions applicables aux stockages souterrains<a id=195></a>
+#### Chapitre V : Dispositions applicables aux stockages souterrains<a id=197></a>
 
 ###### Article L415-1
 
@@ -11591,11 +11813,11 @@ _Cite_:
   - Code minier (nouveau) - art. L211-2 (V)
 
 
-## LIVRE V : INFRACTIONS ET SANCTIONS PENALES<a id=196></a>
+## LIVRE V : INFRACTIONS ET SANCTIONS PENALES<a id=198></a>
 
-### TITRE UNIQUE<a id=197></a>
+### TITRE UNIQUE<a id=199></a>
 
-#### Chapitre Ier : Constatation des infractions<a id=198></a>
+#### Chapitre Ier : Constatation des infractions<a id=200></a>
 
 ###### Article L511-1
 
@@ -11632,9 +11854,9 @@ _Cite_:
   - Code du travail - art. L8112-3
 
 
-#### Chapitre II : Sanctions pénales<a id=199></a>
+#### Chapitre II : Sanctions pénales<a id=201></a>
 
-##### Section 1 : Dispositions communes<a id=200></a>
+##### Section 1 : Dispositions communes<a id=202></a>
 
 ###### Article L512-1
 
@@ -11675,9 +11897,15 @@ récépissé de déclaration prévu à l'article L. 621-13 ;
 12° De transporter du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe sans détenir la copie du récépissé de
 déclaration prévue à l'article L. 621-14.
 
+I bis.-Le fait de contrevenir à l'article L. 111-11 est puni de deux ans d'emprisonnement et de 75 000 € d'amende.
+
 II. – Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 _Cité par_:
 
@@ -11695,25 +11923,25 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 6 (V)
 
 _Cite_:
 
-  - Code minier (nouveau) - art. L131-1 (V)
-  - Code minier (nouveau) - art. L131-5 (V)
-  - Code minier (nouveau) - art. L152-1 (V)
-  - Code minier (nouveau) - art. L161-1 (V)
-  - Code minier (nouveau) - art. L161-2 (V)
-  - Code minier (nouveau) - art. L162-4 (V)
-  - Code minier (nouveau) - art. L163-1 (V)
-  - Code minier (nouveau) - art. L173-2 (V)
-  - Code minier (nouveau) - art. L173-3 (V)
-  - Code minier (nouveau) - art. L175-2 (V)
-  - Code minier (nouveau) - art. L175-3 (V)
-  - Code minier (nouveau) - art. L211-2 (V)
-  - Code minier (nouveau) - art. L311-3 (V)
-  - Code minier (nouveau) - art. L621-13 (V)
-  - Code minier (nouveau) - art. L621-14 (V)
+  - Code minier (nouveau) - art. L131-1
+  - Code minier (nouveau) - art. L131-5
+  - Code minier (nouveau) - art. L152-1
+  - Code minier (nouveau) - art. L161-1
+  - Code minier (nouveau) - art. L161-2
+  - Code minier (nouveau) - art. L162-4
+  - Code minier (nouveau) - art. L163-1
+  - Code minier (nouveau) - art. L173-2
+  - Code minier (nouveau) - art. L173-3
+  - Code minier (nouveau) - art. L175-2
+  - Code minier (nouveau) - art. L175-3
+  - Code minier (nouveau) - art. L211-2
+  - Code minier (nouveau) - art. L311-3
+  - Code minier (nouveau) - art. L621-13
+  - Code minier (nouveau) - art. L621-14
 
 
 ###### Article L512-2
@@ -12138,9 +12366,9 @@ _Anciens textes_:
   - Code minier - art. 253 (Ab)
 
 
-#### Chapitre III : Dispositions particulières<a id=201></a>
+#### Chapitre III : Dispositions particulières<a id=203></a>
 
-##### Section 1 : Dispositions applicables aux infractions commises sur le domaine public maritime<a id=202></a>
+##### Section 1 : Dispositions applicables aux infractions commises sur le domaine public maritime<a id=204></a>
 
 ###### Article L513-1
 
@@ -12269,7 +12497,7 @@ _Cite_:
   - Code minier (nouveau) - art. L513-2 (V)
 
 
-##### Section 3 : Dispositions applicables sur le plateau continental et dans la zone économique exclusive<a id=203></a>
+##### Section 3 : Dispositions applicables sur le plateau continental et dans la zone économique exclusive<a id=205></a>
 
 ###### Article L513-4
 
@@ -12358,7 +12586,7 @@ _Modifié par_:
   - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 62
 
 
-##### Section 4 : Dispositions applicables aux gîtes géothermiques<a id=204></a>
+##### Section 4 : Dispositions applicables aux gîtes géothermiques<a id=206></a>
 
 ###### Article L513-6
 
@@ -12375,13 +12603,13 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-## LIVRE VI : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=205></a>
+## LIVRE VI : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=207></a>
 
-### TITRE IER : DISPOSITIONS COMMUNES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA REUNION ET A MAYOTTE<a id=206></a>
+### TITRE IER : DISPOSITIONS COMMUNES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA REUNION ET A MAYOTTE<a id=208></a>
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier<a id=207></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier<a id=209></a>
 
-##### Section 1 : Régime de l'exploitation des mines<a id=208></a>
+##### Section 1 : Régime de l'exploitation des mines<a id=210></a>
 
 ###### Article L611-1
 
@@ -12424,7 +12652,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-##### Sous-section 1 : L'autorisation d'exploitation<a id=209></a>
+##### Sous-section 1 : L'autorisation d'exploitation<a id=211></a>
 
 ###### Article L611-3
 
@@ -12786,7 +13014,7 @@ _Cite_:
   - Code minier (nouveau) - art. L173-1 (V)
 
 
-##### Sous-section 2 : Le permis d'exploitation<a id=210></a>
+##### Sous-section 2 : Le permis d'exploitation<a id=212></a>
 
 ###### Article L611-17
 
@@ -13093,9 +13321,9 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-31 (V)
 
 
-##### Section 2 : Compétences de la région en mer<a id=211></a>
+##### Section 2 : Compétences de la région en mer<a id=213></a>
 
-##### Sous-section 1 : Champ d'application<a id=212></a>
+##### Sous-section 1 : Champ d'application<a id=214></a>
 
 ###### Article L611-29
 
@@ -13289,7 +13517,7 @@ _Cite_:
   - Code minier (nouveau) - art. L155-3 (V)
 
 
-##### Section 3 : Compétence réglementaire du représentant de l'Etat<a id=213></a>
+##### Section 3 : Compétence réglementaire du représentant de l'Etat<a id=215></a>
 
 ###### Article L611-35
 
@@ -13317,7 +13545,7 @@ _Cité par_:
   - Code minier (nouveau) - art. L611-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V<a id=214></a>
+#### Chapitre V : Dispositions d'adaptation du livre V<a id=216></a>
 
 ###### Article L615-1
 
@@ -13406,11 +13634,11 @@ _Cite_:
   - Code minier (nouveau) - art. L512-5 (VT)
 
 
-### TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE<a id=215></a>
+### TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE<a id=217></a>
 
-#### Chapitre Ier : Dispositions particulières à la Guyane<a id=216></a>
+#### Chapitre Ier : Dispositions particulières à la Guyane<a id=218></a>
 
-##### Section 1 : Le schéma départemental d'orientation minière<a id=217></a>
+##### Section 1 : Le schéma départemental d'orientation minière<a id=219></a>
 
 ###### Article L621-1
 
@@ -13626,7 +13854,7 @@ _Anciens textes_:
   - Code minier - art. 68-20-1 (VT), alinéa 9 et 10
 
 
-##### Section 2 : Dispositions pénales<a id=218></a>
+##### Section 2 : Dispositions pénales<a id=220></a>
 
 ###### Article L621-8
 
@@ -13693,9 +13921,9 @@ _Cite_:
   - Code minier (nouveau) - art. L512-9 (V)
 
 
-##### Section 3 : Autres dispositions d'adaptation<a id=219></a>
+##### Section 3 : Autres dispositions d'adaptation<a id=221></a>
 
-##### Sous-section 1 : Information du public<a id=220></a>
+##### Sous-section 1 : Information du public<a id=222></a>
 
 ###### Article L621-9
 
@@ -13752,7 +13980,7 @@ _Cite_:
   - Code minier (nouveau) - art. L162-4 (V)
 
 
-##### Sous-section 2 : Mise en concurrence<a id=221></a>
+##### Sous-section 2 : Mise en concurrence<a id=223></a>
 
 ###### Article L621-11
 
@@ -13774,7 +14002,7 @@ _Anciens textes_:
   - Code minier - art. 9 (Ab)
 
 
-##### Section 4 : Matériels soumis à un régime particulier<a id=222></a>
+##### Section 4 : Matériels soumis à un régime particulier<a id=224></a>
 
 ###### Article L621-12
 
@@ -13841,9 +14069,9 @@ _Cite_:
   - Code minier (nouveau) - art. L621-13
 
 
-#### Chapitre II : Dispositions particulières à Mayotte<a id=223></a>
+#### Chapitre II : Dispositions particulières à Mayotte<a id=225></a>
 
-##### Section 1 : Dispositions générales d'adaptation<a id=224></a>
+##### Section 1 : Dispositions générales d'adaptation<a id=226></a>
 
 ###### Article L622-1
 
@@ -13905,9 +14133,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE III : SAINT BARTHELEMY<a id=225></a>
+### TITRE III : SAINT BARTHELEMY<a id=227></a>
 
-#### Chapitre Ier : Dispositions générales d'adaptation<a id=226></a>
+#### Chapitre Ier : Dispositions générales d'adaptation<a id=228></a>
 
 ###### Article L631-1
 
@@ -13933,9 +14161,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6214-6 (V)
 
 
-### TITRE IV : SAINT MARTIN<a id=227></a>
+### TITRE IV : SAINT MARTIN<a id=229></a>
 
-#### Chapitre Ier : Dispositions générales<a id=228></a>
+#### Chapitre Ier : Dispositions générales<a id=230></a>
 
 ###### Article L641-1
 
@@ -13961,9 +14189,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. LO6214-6 (V)
 
 
-### TITRE V : SAINT PIERRE ET MIQUELON<a id=229></a>
+### TITRE V : SAINT PIERRE ET MIQUELON<a id=231></a>
 
-#### Chapitre Ier : Dispositions générales<a id=230></a>
+#### Chapitre Ier : Dispositions générales<a id=232></a>
 
 ###### Article L651-1
 
@@ -13991,7 +14219,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre II : Dispositions d'adaptation du livre Ier<a id=231></a>
+#### Chapitre II : Dispositions d'adaptation du livre Ier<a id=233></a>
 
 ###### Article L652-1
 
@@ -14034,9 +14262,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=232></a>
+### TITRE VI : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=234></a>
 
-#### Chapitre Ier : Dispositions générales<a id=233></a>
+#### Chapitre Ier : Dispositions générales<a id=235></a>
 
 ###### Article L661-1
 
@@ -14046,20 +14274,25 @@ district de Terre Adélie, pour la mise en œuvre du protocole, relatif à la pr
 signé à Madrid le 4 octobre 1991, au traité sur l'Antarctique conclu à Washington le 1er décembre 1959 et, d'autre part, des
 dispositions prévues au présent titre.
 
+La section 3 du chapitre Ier du titre Ier du livre Ier est applicable dans les Terres australes et antarctiques françaises,
+dans sa rédaction résultant de la loi n° 2017-1839 du 30 décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation
+des hydrocarbures conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à
+l'environnement.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 _Cité par_:
 
   - Loi n°52-1322 du 15 décembre 1952 - art. 1 (V)
   - Ordonnance n°2016-1314 du 6 octobre 2016 - art. 4 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
-
-_Créé par_:
-
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 25 (V)
 
 
 ###### Article L661-2
@@ -14139,7 +14372,7 @@ _Cite_:
   - Code minier (nouveau) - art. L412-1 (V)
 
 
-#### Chapitre II : Contrôle administratif et constatation des infractions<a id=234></a>
+#### Chapitre II : Contrôle administratif et constatation des infractions<a id=236></a>
 
 ###### Article L662-1
 
@@ -14169,7 +14402,7 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-#### Chapitre III : Redevances<a id=235></a>
+#### Chapitre III : Redevances<a id=237></a>
 
 ###### Article L663-1
 
@@ -14202,9 +14435,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2321-1 (V)
 
 
-### TITRE VII : POLYNESIE FRANCAISE<a id=236></a>
+### TITRE VII : POLYNESIE FRANCAISE<a id=238></a>
 
-#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques<a id=237></a>
+#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques<a id=239></a>
 
 ###### Article L671-1
 
@@ -14306,9 +14539,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE VIII : NOUVELLE CALEDONIE<a id=238></a>
+### TITRE VIII : NOUVELLE CALEDONIE<a id=240></a>
 
-#### Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique<a id=239></a>
+#### Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique<a id=241></a>
 
 ###### Article L681-1
 
@@ -14403,9 +14636,9 @@ _Créé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
 
-### TITRE IX : ILES WALLIS ET FUTUNA<a id=240></a>
+### TITRE IX : ILES WALLIS ET FUTUNA<a id=242></a>
 
-#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales<a id=241></a>
+#### Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales<a id=243></a>
 
 ###### Article L691-1
 
@@ -14413,15 +14646,19 @@ A Wallis-et-Futuna, la prospection, la recherche et l'exploitation des substance
 dispositions du livre Ier à l'exception de ses titres VIII et IX, du livre III à l'exception de son titre V et des livres IV
 et V du présent code, dans le respect des compétences dévolues à cette collectivité.
 
+La section 3 du chapitre Ier du titre Ier du livre Ier est applicable dans les îles Wallis et Futuna, dans sa rédaction
+résultant de la loi n° 2017-1839 du 30 décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures
+conventionnels et non conventionnels et portant diverses dispositions relatives à l'énergie et à l'environnement.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°2017-1839 du 30 décembre 2017 - art. 25 (V)
 
 
 ###### Article L691-2
