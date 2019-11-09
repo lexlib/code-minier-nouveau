@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -8906,11 +8906,11 @@ _Cite_:
 ###### Article L231-4
 
 Le titulaire de la concession de stockage est dispensé de l'obtention préalable d'un titre minier lorsque les travaux de
-création, d'essais et d'aménagement du stockage nécessitent l'extraction d'une substance mentionnée à l'article L. 111-1. Si
-l'une des substances mentionnées à cet article fait l'objet d'un titre minier préexistant, le titulaire de ce dernier et le
-demandeur de la concession de stockage fixent leurs droits et obligations réciproques par accord amiable soumis à
-l'approbation de l'autorité administrative. A défaut d'accord, ces droits et obligations sont définis par l'acte attribuant
-la concession de stockage souterrain.
+création, d'essais, d'aménagement et de fin d'exploitation du stockage nécessitent l'extraction d'une substance mentionnée à
+l'article L. 111-1. Si l'une des substances mentionnées à cet article fait l'objet d'un titre minier préexistant, le
+titulaire de ce dernier et le demandeur de la concession de stockage fixent leurs droits et obligations réciproques par
+accord amiable soumis à l'approbation de l'autorité administrative. A défaut d'accord, ces droits et obligations sont définis
+par l'acte attribuant la concession de stockage souterrain.
 
 **Liens relatifs à cet article**
 
@@ -8918,9 +8918,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-91 du 20 janvier 2011 - art. Annexe
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 27
 
 _Anciens textes_:
 
@@ -8928,7 +8928,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code minier (nouveau) - art. L111-1 (V)
+  - Code minier (nouveau) - art. L111-1
 
 _Cité par_:
 
