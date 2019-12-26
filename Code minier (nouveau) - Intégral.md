@@ -1,5 +1,5 @@
 # Code minier (nouveau)  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L100-1 à L691-6)](#1)
     - [LIVRE IER : LE REGIME LEGAL DES MINES (art. L111-1 à L192-35)](#2)
@@ -220,7 +220,7 @@ Version Consolidée au 2019-11-10
       - [TITRE II : DISPOSITIONS PARTICULIERES  A LA GUYANE ET A MAYOTTE (art. L621-1 à L622-3)](#217)
         - [Chapitre Ier : Dispositions particulières à la Guyane (art. L621-1 à L621-14)](#218)
           - [Section 1 : Le schéma départemental d'orientation minière (art. L621-1 à L621-7)](#219)
-          - [Section 2 : Dispositions pénales (art. L621-8 à L621-8-2)](#220)
+          - [Section 2 : Dispositions pénales (art. L621-8 à L621-8-3)](#220)
           - [Section 3 : Autres dispositions d'adaptation (art. L621-9 à L621-11)](#221)
             - [Sous-section 1 : Information du public (art. L621-9 à L621-10)](#222)
             - [Sous-section 2 : Mise en concurrence (art. L621-11)](#223)
@@ -14017,11 +14017,14 @@ _Cite_:
 Dans les cas prévus aux 11° et 12° de l'article L. 512-1, le tribunal peut prononcer la confiscation du mercure, des
 concasseurs et des corps de pompes ayant servi à la commission de l'infraction.
 
+Dans les cas prévus au second alinéa de l'article L. 621-8-3, le tribunal peut prononcer la confiscation des biens ayant
+servi à la commission de l'infraction.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2013-1029 du 15 novembre 2013 - art. 20 (V)
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 180
 
 _Cite_:
 
@@ -14033,19 +14036,37 @@ _Cite_:
 En Guyane, dans le cadre exclusif du dispositif de lutte contre l'orpaillage illégal, outre les officiers de police
 judiciaire, les agents de police judiciaire sont habilités, sous le contrôle desdits officiers de police judiciaire, à saisir
 dans le cadre de leurs opérations tout bien, matériel ou installation ayant servi, directement ou indirectement, à la
-commission des infractions mentionnées aux articles L. 512-1, L. 512-2 et L. 512-5, ainsi que tout produit provenant de
-celles-ci, et à procéder à la destruction de matériel dans les conditions prévues à l'article L. 512-9.
+commission des infractions mentionnées aux articles L. 512-1, L. 512-2 et L. 512-5 et au second alinéa de l'article L.
+621-8-3, ainsi que tout produit provenant de celles-ci, et à procéder à la destruction de matériel dans les conditions
+prévues à l'article L. 512-9.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 180
+
+_Cite_:
+
+  - Code minier (nouveau) - art. L512-1
+  - Code minier (nouveau) - art. L512-9
+
+
+###### Article L621-8-3
+
+Sur les eaux intérieures en Guyane, est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, dans le cadre
+d'une activité d'orpaillage autorisée, de charger, décharger ou transborder un bateau, un engin flottant ou un matériel
+flottant, tels que définis à l'article L. 4000-3 du code des transports, en dehors des ports ou des emplacements désignés à
+cet effet par les autorités compétentes.
+
+Ces peines sont portées à trois ans d'emprisonnement et à 45 000 € d'amende dans le cadre d'une activité d'orpaillage
+illégale, y compris dans les ports ou les emplacements désignés par les autorités compétentes.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 90
-
-_Cite_:
-
-  - Code minier (nouveau) - art. L512-1 (V)
-  - Code minier (nouveau) - art. L512-9 (V)
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 180
 
 
 ##### Section 3 : Autres dispositions d'adaptation<a id=221></a>
